@@ -2,7 +2,7 @@
 
 rm -rf thumbs
 mkdir thumbs
-printf "### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  \n--  \n\n" >> thumbs/thumbs.md
+printf "### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  \n****  \n\n" >> thumbs/thumbs.md
 cd icons
 for i in `ls *.icns`
 do
