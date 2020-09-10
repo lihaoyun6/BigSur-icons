@@ -11,7 +11,7 @@ cd ../thumbs
 for i in `ls *.png`
 do
 	convert $i -resize 64x64 $i
-	echo "!["$i"](./"$i" \""${i%.*}"\")" >> thumbs.md
+	echo '[!['$i'](./'$i' "'${i%.*}'")](../icons/'${i%.*}.icns')' >> thumbs.md
 done
 cd ..
 echo "Done!"
