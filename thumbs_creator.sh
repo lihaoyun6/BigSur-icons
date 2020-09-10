@@ -9,8 +9,10 @@ cd icons
 for i in `ls *.icns`
 do
 	sips -Z 64 -s format jpeg $i --out ../thumbs/${i%.*}.jpg
-	echo '[!['${i%.*}.jpg']("./'${i%.*}.jpg'" "'${i%.*}'")]("../icons/'${i%.*}.icns'")' >> ../thumbs/thumbs.md
-	echo '['${i%.*}']("../icons/'${i%.*}.icns'")  ' >> ../thumbs/textlist.md
+	iconName=${i%.*}
+	urlName=$(echo ${i%.*}|tr ' ' '+')
+	echo '[!['$iconName'.jpg](./'$urlName'.jpg "'$iconName'")](../icons/'$urlName'.icns)' >> ../thumbs/thumbs.md
+	echo '['$iconName'](../icons/'$urlName'.icns)  ' >> ../thumbs/textlist.md
 done
 cd ..
 IFS=$old_IFS
