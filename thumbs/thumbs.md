@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
---  
+****  
 
 [![1Password.jpg](./1Password.jpg "1Password")](../icons/1Password.icns)
 [![AdobeAcrobat.jpg](./AdobeAcrobat.jpg "AdobeAcrobat")](../icons/AdobeAcrobat.icns)
