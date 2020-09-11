@@ -7,3 +7,4 @@ Replacement icons for some apps in the style of macOS Big Sur.
 [预览(纯文字)/Previews(text only)](./thumbs/textlist.md)  
 
 [当前共有       96 个图标]/[There are       96 icons now]
+[当前共有      105 个图标]/[There are      105 icons now]
