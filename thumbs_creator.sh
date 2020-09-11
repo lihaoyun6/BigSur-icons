@@ -16,6 +16,7 @@ do
 	echo '['$iconName'](../icons/'$urlName'.icns)  ' >> ../thumbs/textlist.md
 done
 cd ..
+sed -i "" '$d' README.md
 echo '[当前共有 '$num' 个图标]/[There are '$num' icons now]' >> README.md
 IFS=$old_IFS
 git add *
