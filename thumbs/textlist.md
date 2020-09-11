@@ -106,4 +106,5 @@
 [WeChat](../icons/WeChat.icns)  
 [Xnip](../icons/Xnip.icns)  
 [cDock](../icons/cDock.icns)  
+[i4Tools](../icons/i4Tools.icns)  
 [iStat Menus](../icons/iStat%20Menus.icns)  

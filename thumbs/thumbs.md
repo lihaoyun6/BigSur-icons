@@ -109,4 +109,5 @@
 [![WeChat.jpg](./WeChat.jpg "WeChat")](../icons/WeChat.icns)
 [![Xnip.jpg](./Xnip.jpg "Xnip")](../icons/Xnip.icns)
 [![cDock.jpg](./cDock.jpg "cDock")](../icons/cDock.icns)
+[![i4Tools.jpg](./i4Tools.jpg "i4Tools")](../icons/i4Tools.icns)
 [![iStat Menus.jpg](./iStat%20Menus.jpg "iStat Menus")](../icons/iStat%20Menus.icns)
