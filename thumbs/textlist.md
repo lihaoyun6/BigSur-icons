@@ -29,6 +29,7 @@
 [DaVinci](../icons/DaVinci.icns)  
 [Dark Mode for Safari](../icons/Dark%20Mode%20for%20Safari.icns)  
 [Dash](../icons/Dash.icns)  
+[Debookee](../icons/Debookee.icns)  
 [DingTalk](../icons/DingTalk.icns)  
 [Discord](../icons/Discord.icns)  
 [Downie](../icons/Downie.icns)  
