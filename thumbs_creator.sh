@@ -9,7 +9,7 @@ cd icons
 num=`ls *.icns|wc -l|tr -d ' '`
 for i in `ls *.icns`
 do
-	sips -Z 64 -s format jpeg $i --out ../thumbs/${i%.*}.jpg
+	sips -Z 128 -s format jpeg $i --out ../thumbs/${i%.*}.jpg
 	iconName=${i%.*}
 	urlName=$(echo ${i%.*}|sed 's/ /%20/g')
 	echo '[!['$iconName'.jpg](./'$urlName'.jpg "'$iconName'")](../icons/'$urlName'.icns)' >> ../thumbs/thumbs.md
