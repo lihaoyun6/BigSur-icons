@@ -4,9 +4,10 @@ old_IFS=$IFS
 IFS=$'\n'
 rm -rf thumbs
 mkdir thumbs
-printf "### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  \n****  \n\n" >> thumbs/thumbs.md
 cd icons
 num=`ls *.icns|wc -l|tr -d ' '`
+printf "### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  \n当前共有 ["$num"] 个图标 / Here are ["$num"] icons now  \n****  \n\n" >> ../thumbs/thumbs.md
+printf "### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  \n当前共有 ["$num"] 个图标 / Here are ["$num"] icons now  \n****  \n\n" >> ../thumbs/textlist.md
 for i in `ls *.icns`
 do
 	sips -Z 128 -s format png $i --out ../thumbs/${i%.*}.png
