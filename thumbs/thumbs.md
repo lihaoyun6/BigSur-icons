@@ -32,6 +32,7 @@
 <a href="../icons/DaVinci.icns"><img src="./DaVinci.jpg" alt="DaVinci" width="64" /></a>
 <a href="../icons/Dark%20Mode%20for%20Safari.icns"><img src="./Dark%20Mode%20for%20Safari.jpg" alt="Dark Mode for Safari" width="64" /></a>
 <a href="../icons/Dash.icns"><img src="./Dash.jpg" alt="Dash" width="64" /></a>
+<a href="../icons/Debookee.icns"><img src="./Debookee.jpg" alt="Debookee" width="64" /></a>
 <a href="../icons/DingTalk.icns"><img src="./DingTalk.jpg" alt="DingTalk" width="64" /></a>
 <a href="../icons/Discord.icns"><img src="./Discord.jpg" alt="Discord" width="64" /></a>
 <a href="../icons/Downie.icns"><img src="./Downie.jpg" alt="Downie" width="64" /></a>
