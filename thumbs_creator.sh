@@ -14,7 +14,8 @@ do
 	rm -f ../thumbs/${i%.*}.png
 	iconName=${i%.*}
 	urlName=$(echo ${i%.*}|sed 's/ /%20/g')
-	echo '[!['$iconName'.jpg](./'$urlName'.jpg "'$iconName'")](../icons/'$urlName'.icns)' >> ../thumbs/thumbs.md
+	#echo '[!['$iconName'.jpg](./'$urlName'.jpg "'$iconName'")](../icons/'$urlName'.icns)' >> ../thumbs/thumbs.md
+	echo '<a href="../icons/'$urlName'.icns"><img src="./'$urlName'.jpg" alt="'$iconName'" width="64" /></a>' >> ../thumbs/thumbs.md
 	echo '['$iconName'](../icons/'$urlName'.icns)  ' >> ../thumbs/textlist.md
 done
 cd ..
