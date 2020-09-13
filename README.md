@@ -6,6 +6,6 @@ Replacement icons for some apps in the style of macOS Big Sur.
 
 [预览/Previews](./thumbs/thumbs.md)  
 [预览(纯文字)/Previews(text only)](./thumbs/textlist.md)  
-![weixin](donate/weixin.png)![zhifubao](donate/zhifubao.png)![paypal](donate/paypal.png)  
+<img src="donate/weixin.jpg" alt="weixin" width="200" /><img src="donate/zhifubao.jpg" alt="zhifubao" width="200" /><img src="donate/paypal.jpg" alt="paypal" width="200" />
 
 当前共有 [113] 个图标 / Here are [113] icons now
