@@ -88,7 +88,7 @@
 <a href="../icons/Principle.icns"><img src="./Principle.jpg" alt="Principle" width="64" /></a>
 <a href="../icons/QQ.icns"><img src="./QQ.jpg" alt="QQ" width="64" /></a>
 <a href="../icons/QQMusic.icns"><img src="./QQMusic.jpg" alt="QQMusic" width="64" /></a>
-<a href="../icons/QuickTime.icns"><img src="./QuickTime.jpg" alt="QuickTime" width="64" /></a>
+<a href="../icons/QuickTime%20Player.icns"><img src="./QuickTime%20Player.jpg" alt="QuickTime Player" width="64" /></a>
 <a href="../icons/Rectangle.icns"><img src="./Rectangle.jpg" alt="Rectangle" width="64" /></a>
 <a href="../icons/Rhino%206.icns"><img src="./Rhino%206.jpg" alt="Rhino 6" width="64" /></a>
 <a href="../icons/ShadowsocksX.icns"><img src="./ShadowsocksX.jpg" alt="ShadowsocksX" width="64" /></a>
