@@ -88,7 +88,7 @@
 [Principle](../icons/Principle.icns)  
 [QQ](../icons/QQ.icns)  
 [QQMusic](../icons/QQMusic.icns)  
-[QuickTime](../icons/QuickTime.icns)  
+[QuickTime Player](../icons/QuickTime%20Player.icns)  
 [Rectangle](../icons/Rectangle.icns)  
 [Rhino 6](../icons/Rhino%206.icns)  
 [ShadowsocksX](../icons/ShadowsocksX.icns)  
