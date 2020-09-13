@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [117] 个图标 / Here are [117] icons now  
+当前共有 [119] 个图标 / Here are [119] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -16,6 +16,7 @@
 <a href="../icons/Adobe%20Premiere.icns"><img src="./Adobe%20Premiere.jpg" alt="Adobe Premiere" width="64" /></a>
 <a href="../icons/Aliwangwang.icns"><img src="./Aliwangwang.jpg" alt="Aliwangwang" width="64" /></a>
 <a href="../icons/Atom.icns"><img src="./Atom.jpg" alt="Atom" width="64" /></a>
+<a href="../icons/BaiduNetdisk.icns"><img src="./BaiduNetdisk.jpg" alt="BaiduNetdisk" width="64" /></a>
 <a href="../icons/BattleNet.icns"><img src="./BattleNet.jpg" alt="BattleNet" width="64" /></a>
 <a href="../icons/Better%20Touch%20Tool.icns"><img src="./Better%20Touch%20Tool.jpg" alt="Better Touch Tool" width="64" /></a>
 <a href="../icons/BitBar.icns"><img src="./BitBar.jpg" alt="BitBar" width="64" /></a>
@@ -35,6 +36,7 @@
 <a href="../icons/Dash.icns"><img src="./Dash.jpg" alt="Dash" width="64" /></a>
 <a href="../icons/Debookee.icns"><img src="./Debookee.jpg" alt="Debookee" width="64" /></a>
 <a href="../icons/DingTalk.icns"><img src="./DingTalk.jpg" alt="DingTalk" width="64" /></a>
+<a href="../icons/Discord%20Dev.icns"><img src="./Discord%20Dev.jpg" alt="Discord Dev" width="64" /></a>
 <a href="../icons/Discord.icns"><img src="./Discord.jpg" alt="Discord" width="64" /></a>
 <a href="../icons/Docker.icns"><img src="./Docker.jpg" alt="Docker" width="64" /></a>
 <a href="../icons/Downie.icns"><img src="./Downie.jpg" alt="Downie" width="64" /></a>
