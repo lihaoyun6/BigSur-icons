@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [113] 个图标 / Here are [113] icons now  
+当前共有 [117] 个图标 / Here are [117] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -36,6 +36,7 @@
 <a href="../icons/Debookee.icns"><img src="./Debookee.jpg" alt="Debookee" width="64" /></a>
 <a href="../icons/DingTalk.icns"><img src="./DingTalk.jpg" alt="DingTalk" width="64" /></a>
 <a href="../icons/Discord.icns"><img src="./Discord.jpg" alt="Discord" width="64" /></a>
+<a href="../icons/Docker.icns"><img src="./Docker.jpg" alt="Docker" width="64" /></a>
 <a href="../icons/Downie.icns"><img src="./Downie.jpg" alt="Downie" width="64" /></a>
 <a href="../icons/Eagle.icns"><img src="./Eagle.jpg" alt="Eagle" width="64" /></a>
 <a href="../icons/Evernote.icns"><img src="./Evernote.jpg" alt="Evernote" width="64" /></a>
@@ -46,6 +47,7 @@
 <a href="../icons/HelloFont.icns"><img src="./HelloFont.jpg" alt="HelloFont" width="64" /></a>
 <a href="../icons/IINA.icns"><img src="./IINA.jpg" alt="IINA" width="64" /></a>
 <a href="../icons/Icon%20Slate.icns"><img src="./Icon%20Slate.jpg" alt="Icon Slate" width="64" /></a>
+<a href="../icons/Intel%20Power%20Gadget.icns"><img src="./Intel%20Power%20Gadget.jpg" alt="Intel Power Gadget" width="64" /></a>
 <a href="../icons/JetBrains%20AppCode.icns"><img src="./JetBrains%20AppCode.jpg" alt="JetBrains AppCode" width="64" /></a>
 <a href="../icons/JetBrains%20CLion.icns"><img src="./JetBrains%20CLion.jpg" alt="JetBrains CLion" width="64" /></a>
 <a href="../icons/JetBrains%20DataGrip.icns"><img src="./JetBrains%20DataGrip.jpg" alt="JetBrains DataGrip" width="64" /></a>
@@ -108,7 +110,9 @@
 <a href="../icons/Tuxera%20NTFS.icns"><img src="./Tuxera%20NTFS.jpg" alt="Tuxera NTFS" width="64" /></a>
 <a href="../icons/Typora.icns"><img src="./Typora.jpg" alt="Typora" width="64" /></a>
 <a href="../icons/V2rayU.icns"><img src="./V2rayU.jpg" alt="V2rayU" width="64" /></a>
+<a href="../icons/VMware%20Fusion.icns"><img src="./VMware%20Fusion.jpg" alt="VMware Fusion" width="64" /></a>
 <a href="../icons/VSCode.icns"><img src="./VSCode.jpg" alt="VSCode" width="64" /></a>
+<a href="../icons/WXWork(企业微信).icns"><img src="./WXWork(企业微信).jpg" alt="WXWork(企业微信)" width="64" /></a>
 <a href="../icons/WeChat.icns"><img src="./WeChat.jpg" alt="WeChat" width="64" /></a>
 <a href="../icons/XAMPP.icns"><img src="./XAMPP.jpg" alt="XAMPP" width="64" /></a>
 <a href="../icons/Xnip.icns"><img src="./Xnip.jpg" alt="Xnip" width="64" /></a>
