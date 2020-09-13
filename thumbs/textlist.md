@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [113] 个图标 / Here are [113] icons now  
+当前共有 [117] 个图标 / Here are [117] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -36,6 +36,7 @@
 [Debookee](../icons/Debookee.icns)  
 [DingTalk](../icons/DingTalk.icns)  
 [Discord](../icons/Discord.icns)  
+[Docker](../icons/Docker.icns)  
 [Downie](../icons/Downie.icns)  
 [Eagle](../icons/Eagle.icns)  
 [Evernote](../icons/Evernote.icns)  
@@ -46,6 +47,7 @@
 [HelloFont](../icons/HelloFont.icns)  
 [IINA](../icons/IINA.icns)  
 [Icon Slate](../icons/Icon%20Slate.icns)  
+[Intel Power Gadget](../icons/Intel%20Power%20Gadget.icns)  
 [JetBrains AppCode](../icons/JetBrains%20AppCode.icns)  
 [JetBrains CLion](../icons/JetBrains%20CLion.icns)  
 [JetBrains DataGrip](../icons/JetBrains%20DataGrip.icns)  
@@ -108,7 +110,9 @@
 [Tuxera NTFS](../icons/Tuxera%20NTFS.icns)  
 [Typora](../icons/Typora.icns)  
 [V2rayU](../icons/V2rayU.icns)  
+[VMware Fusion](../icons/VMware%20Fusion.icns)  
 [VSCode](../icons/VSCode.icns)  
+[WXWork(企业微信)](../icons/WXWork(企业微信).icns)  
 [WeChat](../icons/WeChat.icns)  
 [XAMPP](../icons/XAMPP.icns)  
 [Xnip](../icons/Xnip.icns)  
