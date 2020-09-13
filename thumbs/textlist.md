@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [117] 个图标 / Here are [117] icons now  
+当前共有 [119] 个图标 / Here are [119] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -16,6 +16,7 @@
 [Adobe Premiere](../icons/Adobe%20Premiere.icns)  
 [Aliwangwang](../icons/Aliwangwang.icns)  
 [Atom](../icons/Atom.icns)  
+[BaiduNetdisk](../icons/BaiduNetdisk.icns)  
 [BattleNet](../icons/BattleNet.icns)  
 [Better Touch Tool](../icons/Better%20Touch%20Tool.icns)  
 [BitBar](../icons/BitBar.icns)  
@@ -35,6 +36,7 @@
 [Dash](../icons/Dash.icns)  
 [Debookee](../icons/Debookee.icns)  
 [DingTalk](../icons/DingTalk.icns)  
+[Discord Dev](../icons/Discord%20Dev.icns)  
 [Discord](../icons/Discord.icns)  
 [Docker](../icons/Docker.icns)  
 [Downie](../icons/Downie.icns)  
