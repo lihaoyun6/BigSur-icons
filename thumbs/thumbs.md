@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [126] 个图标 / Here are [126] icons now  
+当前共有 [130] 个图标 / Here are [130] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -33,6 +33,9 @@
 <a href="../icons/CleanMyMac.icns"><img src="./CleanMyMac.jpg" alt="CleanMyMac" width="64" /></a>
 <a href="../icons/CloverConfigurator.icns"><img src="./CloverConfigurator.jpg" alt="CloverConfigurator" width="64" /></a>
 <a href="../icons/CodeRunner.icns"><img src="./CodeRunner.jpg" alt="CodeRunner" width="64" /></a>
+<a href="../icons/Corel%20Font%20Manager%202019.icns"><img src="./Corel%20Font%20Manager%202019.jpg" alt="Corel Font Manager 2019" width="64" /></a>
+<a href="../icons/Corel%20PHOTO-PAINT%202019.icns"><img src="./Corel%20PHOTO-PAINT%202019.jpg" alt="Corel PHOTO-PAINT 2019" width="64" /></a>
+<a href="../icons/CorelDRAW%202019.icns"><img src="./CorelDRAW%202019.jpg" alt="CorelDRAW 2019" width="64" /></a>
 <a href="../icons/CrossOver.icns"><img src="./CrossOver.jpg" alt="CrossOver" width="64" /></a>
 <a href="../icons/DaVinci.icns"><img src="./DaVinci.jpg" alt="DaVinci" width="64" /></a>
 <a href="../icons/Dark%20Mode%20for%20Safari.icns"><img src="./Dark%20Mode%20for%20Safari.jpg" alt="Dark Mode for Safari" width="64" /></a>
@@ -125,6 +128,7 @@
 <a href="../icons/XAMPP.icns"><img src="./XAMPP.jpg" alt="XAMPP" width="64" /></a>
 <a href="../icons/Xnip.icns"><img src="./Xnip.jpg" alt="Xnip" width="64" /></a>
 <a href="../icons/cDock.icns"><img src="./cDock.jpg" alt="cDock" width="64" /></a>
+<a href="../icons/checkra1n.icns"><img src="./checkra1n.jpg" alt="checkra1n" width="64" /></a>
 <a href="../icons/i4Tools.icns"><img src="./i4Tools.jpg" alt="i4Tools" width="64" /></a>
 <a href="../icons/iQIYI(爱奇艺).icns"><img src="./iQIYI(爱奇艺).jpg" alt="iQIYI(爱奇艺)" width="64" /></a>
 <a href="../icons/iStat%20Menus.icns"><img src="./iStat%20Menus.jpg" alt="iStat Menus" width="64" /></a>
