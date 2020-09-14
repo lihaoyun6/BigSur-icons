@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [125] 个图标 / Here are [125] icons now  
+当前共有 [126] 个图标 / Here are [126] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -100,6 +100,7 @@
 [Rhino](../icons/Rhino.icns)  
 [ShadowsocksX](../icons/ShadowsocksX.icns)  
 [Sketch](../icons/Sketch.icns)  
+[SketchUP](../icons/SketchUP.icns)  
 [Speedtest](../icons/Speedtest.icns)  
 [Sublime](../icons/Sublime.icns)  
 [Sunlogin](../icons/Sunlogin.icns)  
