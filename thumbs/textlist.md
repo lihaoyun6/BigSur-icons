@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [122] 个图标 / Here are [122] icons now  
+当前共有 [124] 个图标 / Here are [124] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -96,6 +96,7 @@
 [QuickTime Player](../icons/QuickTime%20Player.icns)  
 [Rectangle](../icons/Rectangle.icns)  
 [Rhino 6](../icons/Rhino%206.icns)  
+[Rhino](../icons/Rhino.icns)  
 [ShadowsocksX](../icons/ShadowsocksX.icns)  
 [Sketch](../icons/Sketch.icns)  
 [Speedtest](../icons/Speedtest.icns)  
@@ -123,4 +124,5 @@
 [Xnip](../icons/Xnip.icns)  
 [cDock](../icons/cDock.icns)  
 [i4Tools](../icons/i4Tools.icns)  
+[iQIYI(爱奇艺)](../icons/iQIYI(爱奇艺).icns)  
 [iStat Menus](../icons/iStat%20Menus.icns)  
