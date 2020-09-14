@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [122] 个图标 / Here are [122] icons now  
+当前共有 [124] 个图标 / Here are [124] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -96,6 +96,7 @@
 <a href="../icons/QuickTime%20Player.icns"><img src="./QuickTime%20Player.jpg" alt="QuickTime Player" width="64" /></a>
 <a href="../icons/Rectangle.icns"><img src="./Rectangle.jpg" alt="Rectangle" width="64" /></a>
 <a href="../icons/Rhino%206.icns"><img src="./Rhino%206.jpg" alt="Rhino 6" width="64" /></a>
+<a href="../icons/Rhino.icns"><img src="./Rhino.jpg" alt="Rhino" width="64" /></a>
 <a href="../icons/ShadowsocksX.icns"><img src="./ShadowsocksX.jpg" alt="ShadowsocksX" width="64" /></a>
 <a href="../icons/Sketch.icns"><img src="./Sketch.jpg" alt="Sketch" width="64" /></a>
 <a href="../icons/Speedtest.icns"><img src="./Speedtest.jpg" alt="Speedtest" width="64" /></a>
@@ -123,4 +124,5 @@
 <a href="../icons/Xnip.icns"><img src="./Xnip.jpg" alt="Xnip" width="64" /></a>
 <a href="../icons/cDock.icns"><img src="./cDock.jpg" alt="cDock" width="64" /></a>
 <a href="../icons/i4Tools.icns"><img src="./i4Tools.jpg" alt="i4Tools" width="64" /></a>
+<a href="../icons/iQIYI(爱奇艺).icns"><img src="./iQIYI(爱奇艺).jpg" alt="iQIYI(爱奇艺)" width="64" /></a>
 <a href="../icons/iStat%20Menus.icns"><img src="./iStat%20Menus.jpg" alt="iStat Menus" width="64" /></a>
