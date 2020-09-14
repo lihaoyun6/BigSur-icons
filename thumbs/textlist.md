@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [119] 个图标 / Here are [119] icons now  
+当前共有 [121] 个图标 / Here are [121] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -14,6 +14,7 @@
 [Adobe Media Encoder](../icons/Adobe%20Media%20Encoder.icns)  
 [Adobe Photoshop](../icons/Adobe%20Photoshop.icns)  
 [Adobe Premiere](../icons/Adobe%20Premiere.icns)  
+[AirBuddy](../icons/AirBuddy.icns)  
 [Aliwangwang](../icons/Aliwangwang.icns)  
 [Atom](../icons/Atom.icns)  
 [BaiduNetdisk](../icons/BaiduNetdisk.icns)  
@@ -87,6 +88,7 @@
 [Pixelmator Pro](../icons/Pixelmator%20Pro.icns)  
 [PopClip](../icons/PopClip.icns)  
 [Postman](../icons/Postman.icns)  
+[Potato](../icons/Potato.icns)  
 [Principle](../icons/Principle.icns)  
 [QQ](../icons/QQ.icns)  
 [QQMusic](../icons/QQMusic.icns)  

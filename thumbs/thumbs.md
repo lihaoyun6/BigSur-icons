@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [119] 个图标 / Here are [119] icons now  
+当前共有 [121] 个图标 / Here are [121] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -14,6 +14,7 @@
 <a href="../icons/Adobe%20Media%20Encoder.icns"><img src="./Adobe%20Media%20Encoder.jpg" alt="Adobe Media Encoder" width="64" /></a>
 <a href="../icons/Adobe%20Photoshop.icns"><img src="./Adobe%20Photoshop.jpg" alt="Adobe Photoshop" width="64" /></a>
 <a href="../icons/Adobe%20Premiere.icns"><img src="./Adobe%20Premiere.jpg" alt="Adobe Premiere" width="64" /></a>
+<a href="../icons/AirBuddy.icns"><img src="./AirBuddy.jpg" alt="AirBuddy" width="64" /></a>
 <a href="../icons/Aliwangwang.icns"><img src="./Aliwangwang.jpg" alt="Aliwangwang" width="64" /></a>
 <a href="../icons/Atom.icns"><img src="./Atom.jpg" alt="Atom" width="64" /></a>
 <a href="../icons/BaiduNetdisk.icns"><img src="./BaiduNetdisk.jpg" alt="BaiduNetdisk" width="64" /></a>
@@ -87,6 +88,7 @@
 <a href="../icons/Pixelmator%20Pro.icns"><img src="./Pixelmator%20Pro.jpg" alt="Pixelmator Pro" width="64" /></a>
 <a href="../icons/PopClip.icns"><img src="./PopClip.jpg" alt="PopClip" width="64" /></a>
 <a href="../icons/Postman.icns"><img src="./Postman.jpg" alt="Postman" width="64" /></a>
+<a href="../icons/Potato.icns"><img src="./Potato.jpg" alt="Potato" width="64" /></a>
 <a href="../icons/Principle.icns"><img src="./Principle.jpg" alt="Principle" width="64" /></a>
 <a href="../icons/QQ.icns"><img src="./QQ.jpg" alt="QQ" width="64" /></a>
 <a href="../icons/QQMusic.icns"><img src="./QQMusic.jpg" alt="QQMusic" width="64" /></a>
