@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [124] 个图标 / Here are [124] icons now  
+当前共有 [125] 个图标 / Here are [125] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -16,6 +16,7 @@
 [Adobe Premiere](../icons/Adobe%20Premiere.icns)  
 [Aibotech NTFS](../icons/Aibotech%20NTFS.icns)  
 [AirBuddy](../icons/AirBuddy.icns)  
+[AirServer](../icons/AirServer.icns)  
 [Aliwangwang](../icons/Aliwangwang.icns)  
 [Atom](../icons/Atom.icns)  
 [BaiduNetdisk](../icons/BaiduNetdisk.icns)  
