@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [130] 个图标 / Here are [130] icons now  
+当前共有 [131] 个图标 / Here are [131] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -36,6 +36,7 @@
 [Corel Font Manager 2019](../icons/Corel%20Font%20Manager%202019.icns)  
 [Corel PHOTO-PAINT 2019](../icons/Corel%20PHOTO-PAINT%202019.icns)  
 [CorelDRAW 2019](../icons/CorelDRAW%202019.icns)  
+[Corsair iCUE](../icons/Corsair%20iCUE.icns)  
 [CrossOver](../icons/CrossOver.icns)  
 [DaVinci](../icons/DaVinci.icns)  
 [Dark Mode for Safari](../icons/Dark%20Mode%20for%20Safari.icns)  

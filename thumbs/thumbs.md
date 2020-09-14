@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [130] 个图标 / Here are [130] icons now  
+当前共有 [131] 个图标 / Here are [131] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -36,6 +36,7 @@
 <a href="../icons/Corel%20Font%20Manager%202019.icns"><img src="./Corel%20Font%20Manager%202019.jpg" alt="Corel Font Manager 2019" width="64" /></a>
 <a href="../icons/Corel%20PHOTO-PAINT%202019.icns"><img src="./Corel%20PHOTO-PAINT%202019.jpg" alt="Corel PHOTO-PAINT 2019" width="64" /></a>
 <a href="../icons/CorelDRAW%202019.icns"><img src="./CorelDRAW%202019.jpg" alt="CorelDRAW 2019" width="64" /></a>
+<a href="../icons/Corsair%20iCUE.icns"><img src="./Corsair%20iCUE.jpg" alt="Corsair iCUE" width="64" /></a>
 <a href="../icons/CrossOver.icns"><img src="./CrossOver.jpg" alt="CrossOver" width="64" /></a>
 <a href="../icons/DaVinci.icns"><img src="./DaVinci.jpg" alt="DaVinci" width="64" /></a>
 <a href="../icons/Dark%20Mode%20for%20Safari.icns"><img src="./Dark%20Mode%20for%20Safari.jpg" alt="Dark Mode for Safari" width="64" /></a>
