@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [131] 个图标 / Here are [131] icons now  
+当前共有 [132] 个图标 / Here are [132] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -91,6 +91,7 @@
 [PDF Expert](../icons/PDF%20Expert.icns)  
 [Paragon NTFS](../icons/Paragon%20NTFS.icns)  
 [Parallels Desktop](../icons/Parallels%20Desktop.icns)  
+[Path Finder](../icons/Path%20Finder.icns)  
 [Pixelmator Pro](../icons/Pixelmator%20Pro.icns)  
 [PopClip](../icons/PopClip.icns)  
 [Postman](../icons/Postman.icns)  
