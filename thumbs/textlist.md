@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [132] 个图标 / Here are [132] icons now  
+当前共有 [133] 个图标 / Here are [133] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -128,6 +128,7 @@
 [WXWork(企业微信)](../icons/WXWork(企业微信).icns)  
 [WeChat](../icons/WeChat.icns)  
 [XAMPP](../icons/XAMPP.icns)  
+[Xcode(silver hammer)](../icons/Xcode(silver%20hammer).icns)  
 [Xnip](../icons/Xnip.icns)  
 [cDock](../icons/cDock.icns)  
 [checkra1n](../icons/checkra1n.icns)  

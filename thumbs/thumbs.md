@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [132] 个图标 / Here are [132] icons now  
+当前共有 [133] 个图标 / Here are [133] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -128,6 +128,7 @@
 <a href="../icons/WXWork(企业微信).icns"><img src="./WXWork(企业微信).jpg" alt="WXWork(企业微信)" width="64" /></a>
 <a href="../icons/WeChat.icns"><img src="./WeChat.jpg" alt="WeChat" width="64" /></a>
 <a href="../icons/XAMPP.icns"><img src="./XAMPP.jpg" alt="XAMPP" width="64" /></a>
+<a href="../icons/Xcode(silver%20hammer).icns"><img src="./Xcode(silver%20hammer).jpg" alt="Xcode(silver hammer)" width="64" /></a>
 <a href="../icons/Xnip.icns"><img src="./Xnip.jpg" alt="Xnip" width="64" /></a>
 <a href="../icons/cDock.icns"><img src="./cDock.jpg" alt="cDock" width="64" /></a>
 <a href="../icons/checkra1n.icns"><img src="./checkra1n.jpg" alt="checkra1n" width="64" /></a>
