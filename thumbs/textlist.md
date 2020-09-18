@@ -128,7 +128,7 @@
 [WXWork(企业微信)](../icons/WXWork(企业微信).icns)  
 [WeChat](../icons/WeChat.icns)  
 [XAMPP](../icons/XAMPP.icns)  
-[Xcode(gold hammer)](../icons/Xcode(gold%20hammer).icns)  
+[Xcode(golden hammer)](../icons/Xcode(golden%20hammer).icns)  
 [Xcode(silver hammer)](../icons/Xcode(silver%20hammer).icns)  
 [Xnip](../icons/Xnip.icns)  
 [cDock](../icons/cDock.icns)  
