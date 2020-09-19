@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [142] 个图标 / Here are [142] icons now  
+当前共有 [143] 个图标 / Here are [143] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -144,3 +144,4 @@
 <a href="../icons/iQIYI(爱奇艺).icns"><img src="./iQIYI(爱奇艺).jpg" alt="iQIYI(爱奇艺)" width="64" /></a>
 <a href="../icons/iStat%20Menus.icns"><img src="./iStat%20Menus.jpg" alt="iStat Menus" width="64" /></a>
 <a href="../icons/iTerm.icns"><img src="./iTerm.jpg" alt="iTerm" width="64" /></a>
+<a href="../icons/天翼云盘.icns"><img src="./天翼云盘.jpg" alt="天翼云盘" width="64" /></a>
