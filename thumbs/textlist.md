@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [138] 个图标 / Here are [138] icons now  
+当前共有 [139] 个图标 / Here are [139] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -140,3 +140,4 @@
 [i4Tools](../icons/i4Tools.icns)  
 [iQIYI(爱奇艺)](../icons/iQIYI(爱奇艺).icns)  
 [iStat Menus](../icons/iStat%20Menus.icns)  
+[iTerm](../icons/iTerm.icns)  
