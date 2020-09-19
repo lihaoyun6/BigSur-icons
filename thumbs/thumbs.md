@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [140] 个图标 / Here are [140] icons now  
+当前共有 [142] 个图标 / Here are [142] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -39,6 +39,7 @@
 <a href="../icons/Corsair%20iCUE.icns"><img src="./Corsair%20iCUE.jpg" alt="Corsair iCUE" width="64" /></a>
 <a href="../icons/CrossOver.icns"><img src="./CrossOver.jpg" alt="CrossOver" width="64" /></a>
 <a href="../icons/DaVinci.icns"><img src="./DaVinci.jpg" alt="DaVinci" width="64" /></a>
+<a href="../icons/DaisyDisk.icns"><img src="./DaisyDisk.jpg" alt="DaisyDisk" width="64" /></a>
 <a href="../icons/Dark%20Mode%20for%20Safari.icns"><img src="./Dark%20Mode%20for%20Safari.jpg" alt="Dark Mode for Safari" width="64" /></a>
 <a href="../icons/Dash.icns"><img src="./Dash.jpg" alt="Dash" width="64" /></a>
 <a href="../icons/Debookee.icns"><img src="./Debookee.jpg" alt="Debookee" width="64" /></a>
@@ -54,6 +55,7 @@
 <a href="../icons/Github.icns"><img src="./Github.jpg" alt="Github" width="64" /></a>
 <a href="../icons/HearthStone.icns"><img src="./HearthStone.jpg" alt="HearthStone" width="64" /></a>
 <a href="../icons/HelloFont.icns"><img src="./HelloFont.jpg" alt="HelloFont" width="64" /></a>
+<a href="../icons/Hopper%20Disassembler.icns"><img src="./Hopper%20Disassembler.jpg" alt="Hopper Disassembler" width="64" /></a>
 <a href="../icons/IINA.icns"><img src="./IINA.jpg" alt="IINA" width="64" /></a>
 <a href="../icons/Icon%20Slate.icns"><img src="./Icon%20Slate.jpg" alt="Icon Slate" width="64" /></a>
 <a href="../icons/Intel%20Power%20Gadget.icns"><img src="./Intel%20Power%20Gadget.jpg" alt="Intel Power Gadget" width="64" /></a>
