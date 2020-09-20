@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [143] 个图标 / Here are [143] icons now  
+当前共有 [144] 个图标 / Here are [144] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -53,6 +53,7 @@
 [FileZilla](../icons/FileZilla.icns)  
 [Firefox](../icons/Firefox.icns)  
 [Github](../icons/Github.icns)  
+[HandShaker](../icons/HandShaker.icns)  
 [HearthStone](../icons/HearthStone.icns)  
 [HelloFont](../icons/HelloFont.icns)  
 [Hopper Disassembler](../icons/Hopper%20Disassembler.icns)  
