@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [144] 个图标 / Here are [144] icons now  
+当前共有 [146] 个图标 / Here are [146] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -49,6 +49,8 @@
 <a href="../icons/Docker.icns"><img src="./Docker.jpg" alt="Docker" width="64" /></a>
 <a href="../icons/Downie.icns"><img src="./Downie.jpg" alt="Downie" width="64" /></a>
 <a href="../icons/Eagle.icns"><img src="./Eagle.jpg" alt="Eagle" width="64" /></a>
+<a href="../icons/Eclipse(2).icns"><img src="./Eclipse(2).jpg" alt="Eclipse(2)" width="64" /></a>
+<a href="../icons/Eclipse.icns"><img src="./Eclipse.jpg" alt="Eclipse" width="64" /></a>
 <a href="../icons/Evernote.icns"><img src="./Evernote.jpg" alt="Evernote" width="64" /></a>
 <a href="../icons/FileZilla.icns"><img src="./FileZilla.jpg" alt="FileZilla" width="64" /></a>
 <a href="../icons/Firefox.icns"><img src="./Firefox.jpg" alt="Firefox" width="64" /></a>
