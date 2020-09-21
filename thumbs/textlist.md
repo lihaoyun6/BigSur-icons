@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [146] 个图标 / Here are [146] icons now  
+当前共有 [147] 个图标 / Here are [147] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -50,6 +50,7 @@
 [Downie](../icons/Downie.icns)  
 [Eagle](../icons/Eagle.icns)  
 [Eclipse(2)](../icons/Eclipse(2).icns)  
+[Eclipse(3)](../icons/Eclipse(3).icns)  
 [Eclipse](../icons/Eclipse.icns)  
 [Evernote](../icons/Evernote.icns)  
 [FileZilla](../icons/FileZilla.icns)  
