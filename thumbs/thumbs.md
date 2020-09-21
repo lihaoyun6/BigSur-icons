@@ -49,9 +49,9 @@
 <a href="../icons/Docker.icns"><img src="./Docker.jpg" alt="Docker" width="64" /></a>
 <a href="../icons/Downie.icns"><img src="./Downie.jpg" alt="Downie" width="64" /></a>
 <a href="../icons/Eagle.icns"><img src="./Eagle.jpg" alt="Eagle" width="64" /></a>
+<a href="../icons/Eclipse(1).icns"><img src="./Eclipse(1).jpg" alt="Eclipse(1)" width="64" /></a>
 <a href="../icons/Eclipse(2).icns"><img src="./Eclipse(2).jpg" alt="Eclipse(2)" width="64" /></a>
 <a href="../icons/Eclipse(3).icns"><img src="./Eclipse(3).jpg" alt="Eclipse(3)" width="64" /></a>
-<a href="../icons/Eclipse.icns"><img src="./Eclipse.jpg" alt="Eclipse" width="64" /></a>
 <a href="../icons/Evernote.icns"><img src="./Evernote.jpg" alt="Evernote" width="64" /></a>
 <a href="../icons/FileZilla.icns"><img src="./FileZilla.jpg" alt="FileZilla" width="64" /></a>
 <a href="../icons/Firefox.icns"><img src="./Firefox.jpg" alt="Firefox" width="64" /></a>
