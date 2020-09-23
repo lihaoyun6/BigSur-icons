@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [150] 个图标 / Here are [150] icons now  
+当前共有 [153] 个图标 / Here are [153] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -30,7 +30,8 @@
 [CAJViewer](../icons/CAJViewer.icns)  
 [CCtalk](../icons/CCtalk.icns)  
 [Charles](../icons/Charles.icns)  
-[Chrome](../icons/Chrome.icns)  
+[Chrome(1)](../icons/Chrome(1).icns)  
+[Chrome(2)](../icons/Chrome(2).icns)  
 [Cinema 4D](../icons/Cinema%204D.icns)  
 [CleanMyMac](../icons/CleanMyMac.icns)  
 [CloverConfigurator](../icons/CloverConfigurator.icns)  
@@ -83,12 +84,15 @@
 [MATLAB](../icons/MATLAB.icns)  
 [MWeb](../icons/MWeb.icns)  
 [MacDown](../icons/MacDown.icns)  
+[MarkEditor](../icons/MarkEditor.icns)  
+[MarkEditor_Dark](../icons/MarkEditor_Dark.icns)  
 [Messenger](../icons/Messenger.icns)  
 [Microsoft Edge](../icons/Microsoft%20Edge.icns)  
 [Microsoft Excel](../icons/Microsoft%20Excel.icns)  
 [Microsoft OneNote](../icons/Microsoft%20OneNote.icns)  
 [Microsoft Outlook](../icons/Microsoft%20Outlook.icns)  
 [Microsoft PowerPoint](../icons/Microsoft%20PowerPoint.icns)  
+[Microsoft Remote Desktop](../icons/Microsoft%20Remote%20Desktop.icns)  
 [Microsoft Word](../icons/Microsoft%20Word.icns)  
 [Movist](../icons/Movist.icns)  
 [MuMu](../icons/MuMu.icns)  
