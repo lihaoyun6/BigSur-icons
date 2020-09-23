@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [148] 个图标 / Here are [148] icons now  
+当前共有 [149] 个图标 / Here are [149] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -24,6 +24,7 @@
 <a href="../icons/Better%20Touch%20Tool.icns"><img src="./Better%20Touch%20Tool.jpg" alt="Better Touch Tool" width="64" /></a>
 <a href="../icons/BitBar.icns"><img src="./BitBar.jpg" alt="BitBar" width="64" /></a>
 <a href="../icons/Blackmagic%20Disk%20Speed%20Test.icns"><img src="./Blackmagic%20Disk%20Speed%20Test.jpg" alt="Blackmagic Disk Speed Test" width="64" /></a>
+<a href="../icons/Blocs.icns"><img src="./Blocs.jpg" alt="Blocs" width="64" /></a>
 <a href="../icons/BlueStacks.icns"><img src="./BlueStacks.jpg" alt="BlueStacks" width="64" /></a>
 <a href="../icons/Boom3D.icns"><img src="./Boom3D.jpg" alt="Boom3D" width="64" /></a>
 <a href="../icons/CAJViewer.icns"><img src="./CAJViewer.jpg" alt="CAJViewer" width="64" /></a>
