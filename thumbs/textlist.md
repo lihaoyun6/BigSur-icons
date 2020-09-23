@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [149] 个图标 / Here are [149] icons now  
+当前共有 [150] 个图标 / Here are [150] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -128,6 +128,7 @@
 [Themviewer](../icons/Themviewer.icns)  
 [Things3](../icons/Things3.icns)  
 [Thunder](../icons/Thunder.icns)  
+[TorBrowser](../icons/TorBrowser.icns)  
 [Tower Pro](../icons/Tower%20Pro.icns)  
 [Transmit](../icons/Transmit.icns)  
 [Turbo Boost Switcher](../icons/Turbo%20Boost%20Switcher.icns)  

@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [149] 个图标 / Here are [149] icons now  
+当前共有 [150] 个图标 / Here are [150] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -128,6 +128,7 @@
 <a href="../icons/Themviewer.icns"><img src="./Themviewer.jpg" alt="Themviewer" width="64" /></a>
 <a href="../icons/Things3.icns"><img src="./Things3.jpg" alt="Things3" width="64" /></a>
 <a href="../icons/Thunder.icns"><img src="./Thunder.jpg" alt="Thunder" width="64" /></a>
+<a href="../icons/TorBrowser.icns"><img src="./TorBrowser.jpg" alt="TorBrowser" width="64" /></a>
 <a href="../icons/Tower%20Pro.icns"><img src="./Tower%20Pro.jpg" alt="Tower Pro" width="64" /></a>
 <a href="../icons/Transmit.icns"><img src="./Transmit.jpg" alt="Transmit" width="64" /></a>
 <a href="../icons/Turbo%20Boost%20Switcher.icns"><img src="./Turbo%20Boost%20Switcher.jpg" alt="Turbo Boost Switcher" width="64" /></a>
