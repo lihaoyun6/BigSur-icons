@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [153] 个图标 / Here are [153] icons now  
+当前共有 [156] 个图标 / Here are [156] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -21,6 +21,7 @@
 <a href="../icons/Atom.icns"><img src="./Atom.jpg" alt="Atom" width="64" /></a>
 <a href="../icons/BaiduNetdisk.icns"><img src="./BaiduNetdisk.jpg" alt="BaiduNetdisk" width="64" /></a>
 <a href="../icons/BattleNet.icns"><img src="./BattleNet.jpg" alt="BattleNet" width="64" /></a>
+<a href="../icons/BestTrace.icns"><img src="./BestTrace.jpg" alt="BestTrace" width="64" /></a>
 <a href="../icons/Better Touch Tool.icns"><img src="./Better%20Touch%20Tool.jpg" alt="Better Touch Tool" width="64" /></a>
 <a href="../icons/BitBar.icns"><img src="./BitBar.jpg" alt="BitBar" width="64" /></a>
 <a href="../icons/Blackmagic Disk Speed Test.icns"><img src="./Blackmagic%20Disk%20Speed%20Test.jpg" alt="Blackmagic Disk Speed Test" width="64" /></a>
@@ -66,6 +67,7 @@
 <a href="../icons/IINA.icns"><img src="./IINA.jpg" alt="IINA" width="64" /></a>
 <a href="../icons/Icon Slate.icns"><img src="./Icon%20Slate.jpg" alt="Icon Slate" width="64" /></a>
 <a href="../icons/Intel Power Gadget.icns"><img src="./Intel%20Power%20Gadget.jpg" alt="Intel Power Gadget" width="64" /></a>
+<a href="../icons/JSON Editor.icns"><img src="./JSON%20Editor.jpg" alt="JSON Editor" width="64" /></a>
 <a href="../icons/JetBrains AppCode.icns"><img src="./JetBrains%20AppCode.jpg" alt="JetBrains AppCode" width="64" /></a>
 <a href="../icons/JetBrains CLion.icns"><img src="./JetBrains%20CLion.jpg" alt="JetBrains CLion" width="64" /></a>
 <a href="../icons/JetBrains DataGrip.icns"><img src="./JetBrains%20DataGrip.jpg" alt="JetBrains DataGrip" width="64" /></a>
@@ -84,6 +86,7 @@
 <a href="../icons/MATLAB.icns"><img src="./MATLAB.jpg" alt="MATLAB" width="64" /></a>
 <a href="../icons/MWeb.icns"><img src="./MWeb.jpg" alt="MWeb" width="64" /></a>
 <a href="../icons/MacDown.icns"><img src="./MacDown.jpg" alt="MacDown" width="64" /></a>
+<a href="../icons/Mactracker.icns"><img src="./Mactracker.jpg" alt="Mactracker" width="64" /></a>
 <a href="../icons/MarkEditor.icns"><img src="./MarkEditor.jpg" alt="MarkEditor" width="64" /></a>
 <a href="../icons/MarkEditor_Dark.png"><img src="./MarkEditor_Dark.jpg" alt="MarkEditor_Dark" width="64" /></a>
 <a href="../icons/Messenger.icns"><img src="./Messenger.jpg" alt="Messenger" width="64" /></a>
