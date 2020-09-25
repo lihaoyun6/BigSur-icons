@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [153] 个图标 / Here are [153] icons now  
+当前共有 [156] 个图标 / Here are [156] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -21,6 +21,7 @@
 [Atom](../icons/Atom.icns)  
 [BaiduNetdisk](../icons/BaiduNetdisk.icns)  
 [BattleNet](../icons/BattleNet.icns)  
+[BestTrace](../icons/BestTrace.icns)  
 [Better Touch Tool](../icons/Better%20Touch%20Tool.icns)  
 [BitBar](../icons/BitBar.icns)  
 [Blackmagic Disk Speed Test](../icons/Blackmagic%20Disk%20Speed%20Test.icns)  
@@ -66,6 +67,7 @@
 [IINA](../icons/IINA.icns)  
 [Icon Slate](../icons/Icon%20Slate.icns)  
 [Intel Power Gadget](../icons/Intel%20Power%20Gadget.icns)  
+[JSON Editor](../icons/JSON%20Editor.icns)  
 [JetBrains AppCode](../icons/JetBrains%20AppCode.icns)  
 [JetBrains CLion](../icons/JetBrains%20CLion.icns)  
 [JetBrains DataGrip](../icons/JetBrains%20DataGrip.icns)  
@@ -84,6 +86,7 @@
 [MATLAB](../icons/MATLAB.icns)  
 [MWeb](../icons/MWeb.icns)  
 [MacDown](../icons/MacDown.icns)  
+[Mactracker](../icons/Mactracker.icns)  
 [MarkEditor](../icons/MarkEditor.icns)  
 [MarkEditor_Dark](../icons/MarkEditor_Dark.icns)  
 [Messenger](../icons/Messenger.icns)  
