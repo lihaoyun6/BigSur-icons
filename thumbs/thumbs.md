@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [157] 个图标 / Here are [157] icons now  
+当前共有 [158] 个图标 / Here are [158] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -64,6 +64,7 @@
 <a href="../icons/HandShaker.icns"><img src="./HandShaker.jpg" alt="HandShaker" width="64" /></a>
 <a href="../icons/HearthStone.icns"><img src="./HearthStone.jpg" alt="HearthStone" width="64" /></a>
 <a href="../icons/HelloFont.icns"><img src="./HelloFont.jpg" alt="HelloFont" width="64" /></a>
+<a href="../icons/Hex Fiend.icns"><img src="./Hex%20Fiend.jpg" alt="Hex Fiend" width="64" /></a>
 <a href="../icons/Hopper Disassembler.icns"><img src="./Hopper%20Disassembler.jpg" alt="Hopper Disassembler" width="64" /></a>
 <a href="../icons/IINA.icns"><img src="./IINA.jpg" alt="IINA" width="64" /></a>
 <a href="../icons/Icon Slate.icns"><img src="./Icon%20Slate.jpg" alt="Icon Slate" width="64" /></a>
