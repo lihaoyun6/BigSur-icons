@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [158] 个图标 / Here are [158] icons now  
+当前共有 [159] 个图标 / Here are [159] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -24,6 +24,7 @@
 [BattleNet](../icons/BattleNet.icns)  
 [BestTrace](../icons/BestTrace.icns)  
 [Better Touch Tool](../icons/Better%20Touch%20Tool.icns)  
+[BetterZip](../icons/BetterZip.icns)  
 [BitBar](../icons/BitBar.icns)  
 [Blackmagic Disk Speed Test](../icons/Blackmagic%20Disk%20Speed%20Test.icns)  
 [Blocs](../icons/Blocs.icns)  
