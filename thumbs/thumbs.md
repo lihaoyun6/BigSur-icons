@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [162] 个图标 / Here are [162] icons now  
+当前共有 [163] 个图标 / Here are [163] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -63,6 +63,7 @@
 <a href="../icons/Evernote.icns"><img src="./Evernote.jpg" alt="Evernote" width="64" /></a>
 <a href="../icons/FileZilla.icns"><img src="./FileZilla.jpg" alt="FileZilla" width="64" /></a>
 <a href="../icons/Firefox.icns"><img src="./Firefox.jpg" alt="Firefox" width="64" /></a>
+<a href="../icons/FontForge.icns"><img src="./FontForge.jpg" alt="FontForge" width="64" /></a>
 <a href="../icons/Github.icns"><img src="./Github.jpg" alt="Github" width="64" /></a>
 <a href="../icons/HandShaker.icns"><img src="./HandShaker.jpg" alt="HandShaker" width="64" /></a>
 <a href="../icons/HearthStone.icns"><img src="./HearthStone.jpg" alt="HearthStone" width="64" /></a>
