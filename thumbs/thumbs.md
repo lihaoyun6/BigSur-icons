@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [163] 个图标 / Here are [163] icons now  
+当前共有 [165] 个图标 / Here are [165] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -62,6 +62,7 @@
 <a href="../icons/Eclipse(3).icns"><img src="./Eclipse(3).jpg" alt="Eclipse(3)" width="64" /></a>
 <a href="../icons/Evernote.icns"><img src="./Evernote.jpg" alt="Evernote" width="64" /></a>
 <a href="../icons/FileZilla.icns"><img src="./FileZilla.jpg" alt="FileZilla" width="64" /></a>
+<a href="../icons/FireStream.icns"><img src="./FireStream.jpg" alt="FireStream" width="64" /></a>
 <a href="../icons/Firefox.icns"><img src="./Firefox.jpg" alt="Firefox" width="64" /></a>
 <a href="../icons/FontForge.icns"><img src="./FontForge.jpg" alt="FontForge" width="64" /></a>
 <a href="../icons/Github.icns"><img src="./Github.jpg" alt="Github" width="64" /></a>
@@ -98,6 +99,7 @@
 <a href="../icons/Messenger.icns"><img src="./Messenger.jpg" alt="Messenger" width="64" /></a>
 <a href="../icons/Microsoft Edge.icns"><img src="./Microsoft%20Edge.jpg" alt="Microsoft Edge" width="64" /></a>
 <a href="../icons/Microsoft Excel.icns"><img src="./Microsoft%20Excel.jpg" alt="Microsoft Excel" width="64" /></a>
+<a href="../icons/Microsoft OneDrive.icns"><img src="./Microsoft%20OneDrive.jpg" alt="Microsoft OneDrive" width="64" /></a>
 <a href="../icons/Microsoft OneNote.icns"><img src="./Microsoft%20OneNote.jpg" alt="Microsoft OneNote" width="64" /></a>
 <a href="../icons/Microsoft Outlook.icns"><img src="./Microsoft%20Outlook.jpg" alt="Microsoft Outlook" width="64" /></a>
 <a href="../icons/Microsoft PowerPoint.icns"><img src="./Microsoft%20PowerPoint.jpg" alt="Microsoft PowerPoint" width="64" /></a>

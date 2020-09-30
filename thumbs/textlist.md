@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [163] 个图标 / Here are [163] icons now  
+当前共有 [165] 个图标 / Here are [165] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -62,6 +62,7 @@
 [Eclipse(3)](../icons/Eclipse(3).icns)  
 [Evernote](../icons/Evernote.icns)  
 [FileZilla](../icons/FileZilla.icns)  
+[FireStream](../icons/FireStream.icns)  
 [Firefox](../icons/Firefox.icns)  
 [FontForge](../icons/FontForge.icns)  
 [Github](../icons/Github.icns)  
@@ -98,6 +99,7 @@
 [Messenger](../icons/Messenger.icns)  
 [Microsoft Edge](../icons/Microsoft%20Edge.icns)  
 [Microsoft Excel](../icons/Microsoft%20Excel.icns)  
+[Microsoft OneDrive](../icons/Microsoft%20OneDrive.icns)  
 [Microsoft OneNote](../icons/Microsoft%20OneNote.icns)  
 [Microsoft Outlook](../icons/Microsoft%20Outlook.icns)  
 [Microsoft PowerPoint](../icons/Microsoft%20PowerPoint.icns)  
