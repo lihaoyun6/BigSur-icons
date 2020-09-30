@@ -1,8 +1,9 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [161] 个图标 / Here are [161] icons now  
+当前共有 [162] 个图标 / Here are [162] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
+[AdGuard for Safari](../icons/AdGuard%20for%20Safari.icns)  
 [Adobe Acrobat](../icons/Adobe%20Acrobat.icns)  
 [Adobe After Effects](../icons/Adobe%20After%20Effects.icns)  
 [Adobe Animate](../icons/Adobe%20Animate.icns)  
