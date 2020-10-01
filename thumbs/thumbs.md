@@ -1,8 +1,9 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [168] 个图标 / Here are [168] icons now  
+当前共有 [188] 个图标 / Here are [188] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
+<a href="../icons/360安全云盘.icns"><img src="./360安全云盘.jpg" alt="360安全云盘" width="64" /></a>
 <a href="../icons/AdGuard for Safari.icns"><img src="./AdGuard%20for%20Safari.jpg" alt="AdGuard for Safari" width="64" /></a>
 <a href="../icons/Adobe Acrobat.icns"><img src="./Adobe%20Acrobat.jpg" alt="Adobe Acrobat" width="64" /></a>
 <a href="../icons/Adobe After Effects.icns"><img src="./Adobe%20After%20Effects.jpg" alt="Adobe After Effects" width="64" /></a>
@@ -62,12 +63,16 @@
 <a href="../icons/Eclipse(1).icns"><img src="./Eclipse(1).jpg" alt="Eclipse(1)" width="64" /></a>
 <a href="../icons/Eclipse(2).icns"><img src="./Eclipse(2).jpg" alt="Eclipse(2)" width="64" /></a>
 <a href="../icons/Eclipse(3).icns"><img src="./Eclipse(3).jpg" alt="Eclipse(3)" width="64" /></a>
+<a href="../icons/Electron.icns"><img src="./Electron.jpg" alt="Electron" width="64" /></a>
 <a href="../icons/Evernote.icns"><img src="./Evernote.jpg" alt="Evernote" width="64" /></a>
 <a href="../icons/FileZilla.icns"><img src="./FileZilla.jpg" alt="FileZilla" width="64" /></a>
 <a href="../icons/FireStream.icns"><img src="./FireStream.jpg" alt="FireStream" width="64" /></a>
 <a href="../icons/Firefox.icns"><img src="./Firefox.jpg" alt="Firefox" width="64" /></a>
 <a href="../icons/FontForge.icns"><img src="./FontForge.jpg" alt="FontForge" width="64" /></a>
+<a href="../icons/Genymotion Shell.icns"><img src="./Genymotion%20Shell.jpg" alt="Genymotion Shell" width="64" /></a>
+<a href="../icons/Genymotion.icns"><img src="./Genymotion.jpg" alt="Genymotion" width="64" /></a>
 <a href="../icons/Github.icns"><img src="./Github.jpg" alt="Github" width="64" /></a>
+<a href="../icons/HBuilderx.icns"><img src="./HBuilderx.jpg" alt="HBuilderx" width="64" /></a>
 <a href="../icons/HandShaker.icns"><img src="./HandShaker.jpg" alt="HandShaker" width="64" /></a>
 <a href="../icons/HearthStone.icns"><img src="./HearthStone.jpg" alt="HearthStone" width="64" /></a>
 <a href="../icons/HelloFont.icns"><img src="./HelloFont.jpg" alt="HelloFont" width="64" /></a>
@@ -107,6 +112,7 @@
 <a href="../icons/Microsoft PowerPoint.icns"><img src="./Microsoft%20PowerPoint.jpg" alt="Microsoft PowerPoint" width="64" /></a>
 <a href="../icons/Microsoft Remote Desktop.icns"><img src="./Microsoft%20Remote%20Desktop.jpg" alt="Microsoft Remote Desktop" width="64" /></a>
 <a href="../icons/Microsoft Word.icns"><img src="./Microsoft%20Word.jpg" alt="Microsoft Word" width="64" /></a>
+<a href="../icons/Mounty.icns"><img src="./Mounty.jpg" alt="Mounty" width="64" /></a>
 <a href="../icons/Movist.icns"><img src="./Movist.jpg" alt="Movist" width="64" /></a>
 <a href="../icons/MuMu.icns"><img src="./MuMu.jpg" alt="MuMu" width="64" /></a>
 <a href="../icons/Navicat.icns"><img src="./Navicat.jpg" alt="Navicat" width="64" /></a>
@@ -123,9 +129,13 @@
 <a href="../icons/Postman.icns"><img src="./Postman.jpg" alt="Postman" width="64" /></a>
 <a href="../icons/Potato.icns"><img src="./Potato.jpg" alt="Potato" width="64" /></a>
 <a href="../icons/Principle.icns"><img src="./Principle.jpg" alt="Principle" width="64" /></a>
+<a href="../icons/PugToHtml.icns"><img src="./PugToHtml.jpg" alt="PugToHtml" width="64" /></a>
+<a href="../icons/PxCook.icns"><img src="./PxCook.jpg" alt="PxCook" width="64" /></a>
 <a href="../icons/QBlocker.icns"><img src="./QBlocker.jpg" alt="QBlocker" width="64" /></a>
 <a href="../icons/QQ.icns"><img src="./QQ.jpg" alt="QQ" width="64" /></a>
+<a href="../icons/QQLive.icns"><img src="./QQLive.jpg" alt="QQLive" width="64" /></a>
 <a href="../icons/QQMusic.icns"><img src="./QQMusic.jpg" alt="QQMusic" width="64" /></a>
+<a href="../icons/QQ小程序开发者工具.icns"><img src="./QQ小程序开发者工具.jpg" alt="QQ小程序开发者工具" width="64" /></a>
 <a href="../icons/QuickTime Player.icns"><img src="./QuickTime%20Player.jpg" alt="QuickTime Player" width="64" /></a>
 <a href="../icons/Rectangle.icns"><img src="./Rectangle.jpg" alt="Rectangle" width="64" /></a>
 <a href="../icons/Rhino 6.icns"><img src="./Rhino%206.jpg" alt="Rhino 6" width="64" /></a>
@@ -146,6 +156,7 @@
 <a href="../icons/Themviewer.icns"><img src="./Themviewer.jpg" alt="Themviewer" width="64" /></a>
 <a href="../icons/Things3.icns"><img src="./Things3.jpg" alt="Things3" width="64" /></a>
 <a href="../icons/Thunder.icns"><img src="./Thunder.jpg" alt="Thunder" width="64" /></a>
+<a href="../icons/TickTick(滴答清单).icns"><img src="./TickTick(滴答清单).jpg" alt="TickTick(滴答清单)" width="64" /></a>
 <a href="../icons/TorBrowser.icns"><img src="./TorBrowser.jpg" alt="TorBrowser" width="64" /></a>
 <a href="../icons/Tower Pro.icns"><img src="./Tower%20Pro.jpg" alt="Tower Pro" width="64" /></a>
 <a href="../icons/Transmit.icns"><img src="./Transmit.jpg" alt="Transmit" width="64" /></a>
@@ -156,11 +167,14 @@
 <a href="../icons/Typora.icns"><img src="./Typora.jpg" alt="Typora" width="64" /></a>
 <a href="../icons/UEFITool.icns"><img src="./UEFITool.jpg" alt="UEFITool" width="64" /></a>
 <a href="../icons/V2rayU.icns"><img src="./V2rayU.jpg" alt="V2rayU" width="64" /></a>
+<a href="../icons/VLC.icns"><img src="./VLC.jpg" alt="VLC" width="64" /></a>
 <a href="../icons/VMware Fusion.icns"><img src="./VMware%20Fusion.jpg" alt="VMware Fusion" width="64" /></a>
 <a href="../icons/VSCode.icns"><img src="./VSCode.jpg" alt="VSCode" width="64" /></a>
+<a href="../icons/WPS Office.icns"><img src="./WPS%20Office.jpg" alt="WPS Office" width="64" /></a>
 <a href="../icons/WXWork(企业微信).icns"><img src="./WXWork(企业微信).jpg" alt="WXWork(企业微信)" width="64" /></a>
 <a href="../icons/WeChat.icns"><img src="./WeChat.jpg" alt="WeChat" width="64" /></a>
 <a href="../icons/XAMPP.icns"><img src="./XAMPP.jpg" alt="XAMPP" width="64" /></a>
+<a href="../icons/XLPlayer.icns"><img src="./XLPlayer.jpg" alt="XLPlayer" width="64" /></a>
 <a href="../icons/Xcode(golden hammer).icns"><img src="./Xcode(golden%20hammer).jpg" alt="Xcode(golden hammer)" width="64" /></a>
 <a href="../icons/Xcode(silver hammer).icns"><img src="./Xcode(silver%20hammer).jpg" alt="Xcode(silver hammer)" width="64" /></a>
 <a href="../icons/Xnip.icns"><img src="./Xnip.jpg" alt="Xnip" width="64" /></a>
@@ -168,6 +182,12 @@
 <a href="../icons/checkra1n.icns"><img src="./checkra1n.jpg" alt="checkra1n" width="64" /></a>
 <a href="../icons/i4Tools.icns"><img src="./i4Tools.jpg" alt="i4Tools" width="64" /></a>
 <a href="../icons/iQIYI(爱奇艺).icns"><img src="./iQIYI(爱奇艺).jpg" alt="iQIYI(爱奇艺)" width="64" /></a>
+<a href="../icons/iRIghtMouse(超级右键).icns"><img src="./iRIghtMouse(超级右键).jpg" alt="iRIghtMouse(超级右键)" width="64" /></a>
 <a href="../icons/iStat Menus.icns"><img src="./iStat%20Menus.jpg" alt="iStat Menus" width="64" /></a>
 <a href="../icons/iTerm.icns"><img src="./iTerm.jpg" alt="iTerm" width="64" /></a>
+<a href="../icons/miniQpicview(看图).icns"><img src="./miniQpicview(看图).jpg" alt="miniQpicview(看图)" width="64" /></a>
+<a href="../icons/pap.er.icns"><img src="./pap.er.jpg" alt="pap.er" width="64" /></a>
+<a href="../icons/wechatwebdevtools(微信开发者工具).icns"><img src="./wechatwebdevtools(微信开发者工具).jpg" alt="wechatwebdevtools(微信开发者工具)" width="64" /></a>
+<a href="../icons/优酷.icns"><img src="./优酷.jpg" alt="优酷" width="64" /></a>
 <a href="../icons/天翼云盘.icns"><img src="./天翼云盘.jpg" alt="天翼云盘" width="64" /></a>
+<a href="../icons/百度开发者工具.icns"><img src="./百度开发者工具.jpg" alt="百度开发者工具" width="64" /></a>
