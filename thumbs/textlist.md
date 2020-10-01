@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [188] 个图标 / Here are [188] icons now  
+当前共有 [189] 个图标 / Here are [189] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -58,6 +58,7 @@
 [Discord Dev](../icons/Discord%20Dev.icns)  
 [Discord](../icons/Discord.icns)  
 [Docker](../icons/Docker.icns)  
+[Don't Starve Together](../icons/Don't%20Starve%20Together.icns)  
 [Downie](../icons/Downie.icns)  
 [Eagle](../icons/Eagle.icns)  
 [Eclipse(1)](../icons/Eclipse(1).icns)  
