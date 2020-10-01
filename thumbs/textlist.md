@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [197] 个图标 / Here are [197] icons now  
+当前共有 [199] 个图标 / Here are [199] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -117,6 +117,7 @@
 [Microsoft PowerPoint](../icons/Microsoft%20PowerPoint.icns)  
 [Microsoft Remote Desktop](../icons/Microsoft%20Remote%20Desktop.icns)  
 [Microsoft Word](../icons/Microsoft%20Word.icns)  
+[Money Pro](../icons/Money%20Pro.icns)  
 [Mounty](../icons/Mounty.icns)  
 [Movist](../icons/Movist.icns)  
 [MuMu](../icons/MuMu.icns)  
@@ -178,6 +179,7 @@
 [VSCode](../icons/VSCode.icns)  
 [WXWork(企业微信)](../icons/WXWork(企业微信).icns)  
 [WeChat](../icons/WeChat.icns)  
+[WhatsApp](../icons/WhatsApp.icns)  
 [WiFi Explorer Pro](../icons/WiFi%20Explorer%20Pro.icns)  
 [WiFi Explorer](../icons/WiFi%20Explorer.icns)  
 [XAMPP](../icons/XAMPP.icns)  
