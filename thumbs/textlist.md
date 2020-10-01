@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [189] 个图标 / Here are [189] icons now  
+当前共有 [190] 个图标 / Here are [190] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -69,6 +69,7 @@
 [FileZilla](../icons/FileZilla.icns)  
 [FireStream](../icons/FireStream.icns)  
 [Firefox](../icons/Firefox.icns)  
+[Focus](../icons/Focus.icns)  
 [FontForge](../icons/FontForge.icns)  
 [Genymotion Shell](../icons/Genymotion%20Shell.icns)  
 [Genymotion](../icons/Genymotion.icns)  
