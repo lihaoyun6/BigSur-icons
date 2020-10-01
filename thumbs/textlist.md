@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [165] 个图标 / Here are [165] icons now  
+当前共有 [168] 个图标 / Here are [168] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -20,6 +20,8 @@
 [AirServer](../icons/AirServer.icns)  
 [Aliwangwang](../icons/Aliwangwang.icns)  
 [Android File Transfer](../icons/Android%20File%20Transfer.icns)  
+[Android Studio(New)](../icons/Android%20Studio(New).icns)  
+[Android Studio](../icons/Android%20Studio.icns)  
 [Atom](../icons/Atom.icns)  
 [AutoCAD](../icons/AutoCAD.icns)  
 [BaiduNetdisk](../icons/BaiduNetdisk.icns)  
@@ -132,6 +134,7 @@
 [Sketch](../icons/Sketch.icns)  
 [SketchUP](../icons/SketchUP.icns)  
 [Speedtest](../icons/Speedtest.icns)  
+[Steam](../icons/Steam.icns)  
 [Sublime](../icons/Sublime.icns)  
 [Sunlogin](../icons/Sunlogin.icns)  
 [Surge](../icons/Surge.icns)  

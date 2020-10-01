@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [165] 个图标 / Here are [165] icons now  
+当前共有 [168] 个图标 / Here are [168] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -20,6 +20,8 @@
 <a href="../icons/AirServer.icns"><img src="./AirServer.jpg" alt="AirServer" width="64" /></a>
 <a href="../icons/Aliwangwang.icns"><img src="./Aliwangwang.jpg" alt="Aliwangwang" width="64" /></a>
 <a href="../icons/Android File Transfer.icns"><img src="./Android%20File%20Transfer.jpg" alt="Android File Transfer" width="64" /></a>
+<a href="../icons/Android Studio(New).icns"><img src="./Android%20Studio(New).jpg" alt="Android Studio(New)" width="64" /></a>
+<a href="../icons/Android Studio.icns"><img src="./Android%20Studio.jpg" alt="Android Studio" width="64" /></a>
 <a href="../icons/Atom.icns"><img src="./Atom.jpg" alt="Atom" width="64" /></a>
 <a href="../icons/AutoCAD.icns"><img src="./AutoCAD.jpg" alt="AutoCAD" width="64" /></a>
 <a href="../icons/BaiduNetdisk.icns"><img src="./BaiduNetdisk.jpg" alt="BaiduNetdisk" width="64" /></a>
@@ -132,6 +134,7 @@
 <a href="../icons/Sketch.icns"><img src="./Sketch.jpg" alt="Sketch" width="64" /></a>
 <a href="../icons/SketchUP.icns"><img src="./SketchUP.jpg" alt="SketchUP" width="64" /></a>
 <a href="../icons/Speedtest.icns"><img src="./Speedtest.jpg" alt="Speedtest" width="64" /></a>
+<a href="../icons/Steam.icns"><img src="./Steam.jpg" alt="Steam" width="64" /></a>
 <a href="../icons/Sublime.icns"><img src="./Sublime.jpg" alt="Sublime" width="64" /></a>
 <a href="../icons/Sunlogin.icns"><img src="./Sunlogin.jpg" alt="Sunlogin" width="64" /></a>
 <a href="../icons/Surge.icns"><img src="./Surge.jpg" alt="Surge" width="64" /></a>
