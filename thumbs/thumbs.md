@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [189] 个图标 / Here are [189] icons now  
+当前共有 [190] 个图标 / Here are [190] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -69,6 +69,7 @@
 <a href="../icons/FileZilla.icns"><img src="./FileZilla.jpg" alt="FileZilla" width="64" /></a>
 <a href="../icons/FireStream.icns"><img src="./FireStream.jpg" alt="FireStream" width="64" /></a>
 <a href="../icons/Firefox.icns"><img src="./Firefox.jpg" alt="Firefox" width="64" /></a>
+<a href="../icons/Focus.icns"><img src="./Focus.jpg" alt="Focus" width="64" /></a>
 <a href="../icons/FontForge.icns"><img src="./FontForge.jpg" alt="FontForge" width="64" /></a>
 <a href="../icons/Genymotion Shell.icns"><img src="./Genymotion%20Shell.jpg" alt="Genymotion Shell" width="64" /></a>
 <a href="../icons/Genymotion.icns"><img src="./Genymotion.jpg" alt="Genymotion" width="64" /></a>
