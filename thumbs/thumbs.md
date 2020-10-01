@@ -176,7 +176,6 @@
 <a href="../icons/VLC.icns"><img src="./VLC.jpg" alt="VLC" width="64" /></a>
 <a href="../icons/VMware Fusion.icns"><img src="./VMware%20Fusion.jpg" alt="VMware Fusion" width="64" /></a>
 <a href="../icons/VSCode.icns"><img src="./VSCode.jpg" alt="VSCode" width="64" /></a>
-<a href="../icons/WPS Office.icns"><img src="./WPS%20Office.jpg" alt="WPS Office" width="64" /></a>
 <a href="../icons/WXWork(企业微信).icns"><img src="./WXWork(企业微信).jpg" alt="WXWork(企业微信)" width="64" /></a>
 <a href="../icons/WeChat.icns"><img src="./WeChat.jpg" alt="WeChat" width="64" /></a>
 <a href="../icons/WiFi Explorer Pro.icns"><img src="./WiFi%20Explorer%20Pro.jpg" alt="WiFi Explorer Pro" width="64" /></a>
@@ -197,6 +196,7 @@
 <a href="../icons/miniQpicview(看图).icns"><img src="./miniQpicview(看图).jpg" alt="miniQpicview(看图)" width="64" /></a>
 <a href="../icons/pap.er.icns"><img src="./pap.er.jpg" alt="pap.er" width="64" /></a>
 <a href="../icons/wechatwebdevtools(微信开发者工具).icns"><img src="./wechatwebdevtools(微信开发者工具).jpg" alt="wechatwebdevtools(微信开发者工具)" width="64" /></a>
+<a href="../icons/wpsoffice.icns"><img src="./wpsoffice.jpg" alt="wpsoffice" width="64" /></a>
 <a href="../icons/优酷.icns"><img src="./优酷.jpg" alt="优酷" width="64" /></a>
 <a href="../icons/天翼云盘.icns"><img src="./天翼云盘.jpg" alt="天翼云盘" width="64" /></a>
 <a href="../icons/百度开发者工具.icns"><img src="./百度开发者工具.jpg" alt="百度开发者工具" width="64" /></a>
