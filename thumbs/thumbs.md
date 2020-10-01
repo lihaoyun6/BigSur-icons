@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [188] 个图标 / Here are [188] icons now  
+当前共有 [189] 个图标 / Here are [189] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -58,6 +58,7 @@
 <a href="../icons/Discord Dev.icns"><img src="./Discord%20Dev.jpg" alt="Discord Dev" width="64" /></a>
 <a href="../icons/Discord.icns"><img src="./Discord.jpg" alt="Discord" width="64" /></a>
 <a href="../icons/Docker.icns"><img src="./Docker.jpg" alt="Docker" width="64" /></a>
+<a href="../icons/Don't Starve Together.icns"><img src="./Don't%20Starve%20Together.jpg" alt="Don't Starve Together" width="64" /></a>
 <a href="../icons/Downie.icns"><img src="./Downie.jpg" alt="Downie" width="64" /></a>
 <a href="../icons/Eagle.icns"><img src="./Eagle.jpg" alt="Eagle" width="64" /></a>
 <a href="../icons/Eclipse(1).icns"><img src="./Eclipse(1).jpg" alt="Eclipse(1)" width="64" /></a>
