@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [201] 个图标 / Here are [201] icons now  
+当前共有 [203] 个图标 / Here are [203] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -178,6 +178,8 @@
 [VLC](../icons/VLC.icns)  
 [VMware Fusion](../icons/VMware%20Fusion.icns)  
 [VSCode](../icons/VSCode.icns)  
+[VirtualBox(1)](../icons/VirtualBox(1).icns)  
+[VirtualBox(2)](../icons/VirtualBox(2).icns)  
 [WXWork(企业微信)](../icons/WXWork(企业微信).icns)  
 [WeChat](../icons/WeChat.icns)  
 [WhatsApp](../icons/WhatsApp.icns)  

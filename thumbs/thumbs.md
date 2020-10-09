@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [201] 个图标 / Here are [201] icons now  
+当前共有 [203] 个图标 / Here are [203] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -178,6 +178,8 @@
 <a href="../icons/VLC.icns"><img src="./VLC.jpg" alt="VLC" width="64" /></a>
 <a href="../icons/VMware Fusion.icns"><img src="./VMware%20Fusion.jpg" alt="VMware Fusion" width="64" /></a>
 <a href="../icons/VSCode.icns"><img src="./VSCode.jpg" alt="VSCode" width="64" /></a>
+<a href="../icons/VirtualBox(1).icns"><img src="./VirtualBox(1).jpg" alt="VirtualBox(1)" width="64" /></a>
+<a href="../icons/VirtualBox(2).icns"><img src="./VirtualBox(2).jpg" alt="VirtualBox(2)" width="64" /></a>
 <a href="../icons/WXWork(企业微信).icns"><img src="./WXWork(企业微信).jpg" alt="WXWork(企业微信)" width="64" /></a>
 <a href="../icons/WeChat.icns"><img src="./WeChat.jpg" alt="WeChat" width="64" /></a>
 <a href="../icons/WhatsApp.icns"><img src="./WhatsApp.jpg" alt="WhatsApp" width="64" /></a>
