@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [204] 个图标 / Here are [204] icons now  
+当前共有 [207] 个图标 / Here are [207] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -151,6 +151,7 @@
 [Siri](../icons/Siri.icns)  
 [Sketch](../icons/Sketch.icns)  
 [SketchUP](../icons/SketchUP.icns)  
+[Spark](../icons/Spark.icns)  
 [Speedtest](../icons/Speedtest.icns)  
 [Steam](../icons/Steam.icns)  
 [Sublime](../icons/Sublime.icns)  
@@ -171,6 +172,7 @@
 [Turbo Boost Switcher](../icons/Turbo%20Boost%20Switcher.icns)  
 [Tuxera Disk Manager](../icons/Tuxera%20Disk%20Manager.icns)  
 [Tuxera NTFS](../icons/Tuxera%20NTFS.icns)  
+[Twitter](../icons/Twitter.icns)  
 [Typelight](../icons/Typelight.icns)  
 [Typora](../icons/Typora.icns)  
 [UEFITool](../icons/UEFITool.icns)  
@@ -195,6 +197,7 @@
 [cDock](../icons/cDock.icns)  
 [checkra1n](../icons/checkra1n.icns)  
 [i4Tools](../icons/i4Tools.icns)  
+[iMazing](../icons/iMazing.icns)  
 [iQIYI(爱奇艺)](../icons/iQIYI(爱奇艺).icns)  
 [iRIghtMouse(超级右键)](../icons/iRIghtMouse(超级右键).icns)  
 [iStat Menus](../icons/iStat%20Menus.icns)  
