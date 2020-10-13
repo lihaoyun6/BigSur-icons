@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [207] 个图标 / Here are [207] icons now  
+当前共有 [208] 个图标 / Here are [208] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -131,6 +131,7 @@
 <a href="../icons/Paragon NTFS.icns"><img src="./Paragon%20NTFS.jpg" alt="Paragon NTFS" width="64" /></a>
 <a href="../icons/Parallels Desktop.icns"><img src="./Parallels%20Desktop.jpg" alt="Parallels Desktop" width="64" /></a>
 <a href="../icons/Path Finder.icns"><img src="./Path%20Finder.jpg" alt="Path Finder" width="64" /></a>
+<a href="../icons/Permute.icns"><img src="./Permute.jpg" alt="Permute" width="64" /></a>
 <a href="../icons/Pixelmator Pro.icns"><img src="./Pixelmator%20Pro.jpg" alt="Pixelmator Pro" width="64" /></a>
 <a href="../icons/PopClip.icns"><img src="./PopClip.jpg" alt="PopClip" width="64" /></a>
 <a href="../icons/Postman.icns"><img src="./Postman.jpg" alt="Postman" width="64" /></a>
