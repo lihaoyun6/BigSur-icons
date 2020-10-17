@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [209] 个图标 / Here are [209] icons now  
+当前共有 [210] 个图标 / Here are [210] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -21,6 +21,7 @@
 <a href="../icons/AirBuddy.icns"><img src="./AirBuddy.jpg" alt="AirBuddy" width="64" /></a>
 <a href="../icons/AirServer.icns"><img src="./AirServer.jpg" alt="AirServer" width="64" /></a>
 <a href="../icons/Aliwangwang.icns"><img src="./Aliwangwang.jpg" alt="Aliwangwang" width="64" /></a>
+<a href="../icons/AmorphousDiskMark.icns"><img src="./AmorphousDiskMark.jpg" alt="AmorphousDiskMark" width="64" /></a>
 <a href="../icons/Android File Transfer.icns"><img src="./Android%20File%20Transfer.jpg" alt="Android File Transfer" width="64" /></a>
 <a href="../icons/Android Studio(New).icns"><img src="./Android%20Studio(New).jpg" alt="Android Studio(New)" width="64" /></a>
 <a href="../icons/Android Studio.icns"><img src="./Android%20Studio.jpg" alt="Android Studio" width="64" /></a>
