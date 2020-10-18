@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [211] 个图标 / Here are [211] icons now  
+当前共有 [213] 个图标 / Here are [213] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -69,6 +69,7 @@
 [Electron](../icons/Electron.icns)  
 [Evernote](../icons/Evernote.icns)  
 [FileZilla](../icons/FileZilla.icns)  
+[FinalShell](../icons/FinalShell.icns)  
 [FireStream](../icons/FireStream.icns)  
 [Firefox](../icons/Firefox.icns)  
 [Focus](../icons/Focus.icns)  
@@ -149,6 +150,7 @@
 [QQ小程序开发者工具](../icons/QQ小程序开发者工具.icns)  
 [QuickTime Player](../icons/QuickTime%20Player.icns)  
 [Rectangle](../icons/Rectangle.icns)  
+[Redis Desktop Manager](../icons/Redis%20Desktop%20Manager.icns)  
 [Rhino 6](../icons/Rhino%206.icns)  
 [Rhino](../icons/Rhino.icns)  
 [ShadowsocksX](../icons/ShadowsocksX.icns)  
