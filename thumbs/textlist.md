@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [210] 个图标 / Here are [210] icons now  
+当前共有 [211] 个图标 / Here are [211] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -124,6 +124,7 @@
 [Movist](../icons/Movist.icns)  
 [MuMu](../icons/MuMu.icns)  
 [Navicat](../icons/Navicat.icns)  
+[NetNewsWire](../icons/NetNewsWire.icns)  
 [NeteaseMusic](../icons/NeteaseMusic.icns)  
 [Noiseless CK](../icons/Noiseless%20CK.icns)  
 [Notion](../icons/Notion.icns)  
