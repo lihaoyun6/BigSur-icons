@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [211] 个图标 / Here are [211] icons now  
+当前共有 [213] 个图标 / Here are [213] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -69,6 +69,7 @@
 <a href="../icons/Electron.icns"><img src="./Electron.jpg" alt="Electron" width="64" /></a>
 <a href="../icons/Evernote.icns"><img src="./Evernote.jpg" alt="Evernote" width="64" /></a>
 <a href="../icons/FileZilla.icns"><img src="./FileZilla.jpg" alt="FileZilla" width="64" /></a>
+<a href="../icons/FinalShell.icns"><img src="./FinalShell.jpg" alt="FinalShell" width="64" /></a>
 <a href="../icons/FireStream.icns"><img src="./FireStream.jpg" alt="FireStream" width="64" /></a>
 <a href="../icons/Firefox.icns"><img src="./Firefox.jpg" alt="Firefox" width="64" /></a>
 <a href="../icons/Focus.icns"><img src="./Focus.jpg" alt="Focus" width="64" /></a>
@@ -149,6 +150,7 @@
 <a href="../icons/QQ小程序开发者工具.icns"><img src="./QQ小程序开发者工具.jpg" alt="QQ小程序开发者工具" width="64" /></a>
 <a href="../icons/QuickTime Player.icns"><img src="./QuickTime%20Player.jpg" alt="QuickTime Player" width="64" /></a>
 <a href="../icons/Rectangle.icns"><img src="./Rectangle.jpg" alt="Rectangle" width="64" /></a>
+<a href="../icons/Redis Desktop Manager.icns"><img src="./Redis%20Desktop%20Manager.jpg" alt="Redis Desktop Manager" width="64" /></a>
 <a href="../icons/Rhino 6.icns"><img src="./Rhino%206.jpg" alt="Rhino 6" width="64" /></a>
 <a href="../icons/Rhino.icns"><img src="./Rhino.jpg" alt="Rhino" width="64" /></a>
 <a href="../icons/ShadowsocksX.icns"><img src="./ShadowsocksX.jpg" alt="ShadowsocksX" width="64" /></a>
