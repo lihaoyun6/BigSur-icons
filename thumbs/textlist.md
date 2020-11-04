@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [218] 个图标 / Here are [218] icons now  
+当前共有 [222] 个图标 / Here are [222] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -81,6 +81,7 @@
 [Genymotion Shell](../icons/Genymotion%20Shell.icns)  
 [Genymotion](../icons/Genymotion.icns)  
 [Github](../icons/Github.icns)  
+[GoodNote](../icons/GoodNote.icns)  
 [HBuilderx](../icons/HBuilderx.icns)  
 [HP Smart](../icons/HP%20Smart.icns)  
 [Hackintool](../icons/Hackintool.icns)  
@@ -158,6 +159,7 @@
 [Redis Desktop Manager](../icons/Redis%20Desktop%20Manager.icns)  
 [Rhino 6](../icons/Rhino%206.icns)  
 [Rhino](../icons/Rhino.icns)  
+[Rosetta Stone](../icons/Rosetta%20Stone.icns)  
 [ShadowsocksX](../icons/ShadowsocksX.icns)  
 [Siri](../icons/Siri.icns)  
 [Sketch](../icons/Sketch.icns)  
@@ -218,5 +220,7 @@
 [wechatwebdevtools(微信开发者工具)](../icons/wechatwebdevtools(微信开发者工具).icns)  
 [wpsoffice](../icons/wpsoffice.icns)  
 [优酷](../icons/优酷.icns)  
+[喜马拉雅](../icons/喜马拉雅.icns)  
 [天翼云盘](../icons/天翼云盘.icns)  
+[石墨文档](../icons/石墨文档.icns)  
 [百度开发者工具](../icons/百度开发者工具.icns)  
