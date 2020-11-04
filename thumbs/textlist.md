@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [215] 个图标 / Here are [215] icons now  
+当前共有 [218] 个图标 / Here are [218] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -48,8 +48,11 @@
 [CloverConfigurator](../icons/CloverConfigurator.icns)  
 [CodeRunner](../icons/CodeRunner.icns)  
 [Corel Font Manager 2019](../icons/Corel%20Font%20Manager%202019.icns)  
+[Corel Font Manager 2020](../icons/Corel%20Font%20Manager%202020.icns)  
 [Corel PHOTO-PAINT 2019](../icons/Corel%20PHOTO-PAINT%202019.icns)  
+[Corel PHOTO-PAINT 2020](../icons/Corel%20PHOTO-PAINT%202020.icns)  
 [CorelDRAW 2019](../icons/CorelDRAW%202019.icns)  
+[CorelDRAW 2020](../icons/CorelDRAW%202020.icns)  
 [Corsair iCUE](../icons/Corsair%20iCUE.icns)  
 [CrossOver](../icons/CrossOver.icns)  
 [DaVinci](../icons/DaVinci.icns)  
