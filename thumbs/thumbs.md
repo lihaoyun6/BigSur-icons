@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [215] 个图标 / Here are [215] icons now  
+当前共有 [218] 个图标 / Here are [218] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -48,8 +48,11 @@
 <a href="../icons/CloverConfigurator.icns"><img src="./CloverConfigurator.jpg" alt="CloverConfigurator" width="64" /></a>
 <a href="../icons/CodeRunner.icns"><img src="./CodeRunner.jpg" alt="CodeRunner" width="64" /></a>
 <a href="../icons/Corel Font Manager 2019.icns"><img src="./Corel%20Font%20Manager%202019.jpg" alt="Corel Font Manager 2019" width="64" /></a>
+<a href="../icons/Corel Font Manager 2020.icns"><img src="./Corel%20Font%20Manager%202020.jpg" alt="Corel Font Manager 2020" width="64" /></a>
 <a href="../icons/Corel PHOTO-PAINT 2019.icns"><img src="./Corel%20PHOTO-PAINT%202019.jpg" alt="Corel PHOTO-PAINT 2019" width="64" /></a>
+<a href="../icons/Corel PHOTO-PAINT 2020.icns"><img src="./Corel%20PHOTO-PAINT%202020.jpg" alt="Corel PHOTO-PAINT 2020" width="64" /></a>
 <a href="../icons/CorelDRAW 2019.icns"><img src="./CorelDRAW%202019.jpg" alt="CorelDRAW 2019" width="64" /></a>
+<a href="../icons/CorelDRAW 2020.icns"><img src="./CorelDRAW%202020.jpg" alt="CorelDRAW 2020" width="64" /></a>
 <a href="../icons/Corsair iCUE.icns"><img src="./Corsair%20iCUE.jpg" alt="Corsair iCUE" width="64" /></a>
 <a href="../icons/CrossOver.icns"><img src="./CrossOver.jpg" alt="CrossOver" width="64" /></a>
 <a href="../icons/DaVinci.icns"><img src="./DaVinci.jpg" alt="DaVinci" width="64" /></a>
