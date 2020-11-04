@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [213] 个图标 / Here are [213] icons now  
+当前共有 [215] 个图标 / Here are [215] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -39,6 +39,7 @@
 [Boom3D](../icons/Boom3D.icns)  
 [CAJViewer](../icons/CAJViewer.icns)  
 [CCtalk](../icons/CCtalk.icns)  
+[CPU-S](../icons/CPU-S.icns)  
 [Charles](../icons/Charles.icns)  
 [Chrome(1)](../icons/Chrome(1).icns)  
 [Chrome(2)](../icons/Chrome(2).icns)  
@@ -78,6 +79,7 @@
 [Genymotion](../icons/Genymotion.icns)  
 [Github](../icons/Github.icns)  
 [HBuilderx](../icons/HBuilderx.icns)  
+[HP Smart](../icons/HP%20Smart.icns)  
 [Hackintool](../icons/Hackintool.icns)  
 [HandShaker](../icons/HandShaker.icns)  
 [HearthStone](../icons/HearthStone.icns)  

@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [213] 个图标 / Here are [213] icons now  
+当前共有 [215] 个图标 / Here are [215] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -39,6 +39,7 @@
 <a href="../icons/Boom3D.icns"><img src="./Boom3D.jpg" alt="Boom3D" width="64" /></a>
 <a href="../icons/CAJViewer.icns"><img src="./CAJViewer.jpg" alt="CAJViewer" width="64" /></a>
 <a href="../icons/CCtalk.icns"><img src="./CCtalk.jpg" alt="CCtalk" width="64" /></a>
+<a href="../icons/CPU-S.icns"><img src="./CPU-S.jpg" alt="CPU-S" width="64" /></a>
 <a href="../icons/Charles.icns"><img src="./Charles.jpg" alt="Charles" width="64" /></a>
 <a href="../icons/Chrome(1).icns"><img src="./Chrome(1).jpg" alt="Chrome(1)" width="64" /></a>
 <a href="../icons/Chrome(2).icns"><img src="./Chrome(2).jpg" alt="Chrome(2)" width="64" /></a>
@@ -78,6 +79,7 @@
 <a href="../icons/Genymotion.icns"><img src="./Genymotion.jpg" alt="Genymotion" width="64" /></a>
 <a href="../icons/Github.icns"><img src="./Github.jpg" alt="Github" width="64" /></a>
 <a href="../icons/HBuilderx.icns"><img src="./HBuilderx.jpg" alt="HBuilderx" width="64" /></a>
+<a href="../icons/HP Smart.icns"><img src="./HP%20Smart.jpg" alt="HP Smart" width="64" /></a>
 <a href="../icons/Hackintool.icns"><img src="./Hackintool.jpg" alt="Hackintool" width="64" /></a>
 <a href="../icons/HandShaker.icns"><img src="./HandShaker.jpg" alt="HandShaker" width="64" /></a>
 <a href="../icons/HearthStone.icns"><img src="./HearthStone.jpg" alt="HearthStone" width="64" /></a>
