@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [218] 个图标 / Here are [218] icons now  
+当前共有 [222] 个图标 / Here are [222] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -81,6 +81,7 @@
 <a href="../icons/Genymotion Shell.icns"><img src="./Genymotion%20Shell.jpg" alt="Genymotion Shell" width="64" /></a>
 <a href="../icons/Genymotion.icns"><img src="./Genymotion.jpg" alt="Genymotion" width="64" /></a>
 <a href="../icons/Github.icns"><img src="./Github.jpg" alt="Github" width="64" /></a>
+<a href="../icons/GoodNote.icns"><img src="./GoodNote.jpg" alt="GoodNote" width="64" /></a>
 <a href="../icons/HBuilderx.icns"><img src="./HBuilderx.jpg" alt="HBuilderx" width="64" /></a>
 <a href="../icons/HP Smart.icns"><img src="./HP%20Smart.jpg" alt="HP Smart" width="64" /></a>
 <a href="../icons/Hackintool.icns"><img src="./Hackintool.jpg" alt="Hackintool" width="64" /></a>
@@ -158,6 +159,7 @@
 <a href="../icons/Redis Desktop Manager.icns"><img src="./Redis%20Desktop%20Manager.jpg" alt="Redis Desktop Manager" width="64" /></a>
 <a href="../icons/Rhino 6.icns"><img src="./Rhino%206.jpg" alt="Rhino 6" width="64" /></a>
 <a href="../icons/Rhino.icns"><img src="./Rhino.jpg" alt="Rhino" width="64" /></a>
+<a href="../icons/Rosetta Stone.icns"><img src="./Rosetta%20Stone.jpg" alt="Rosetta Stone" width="64" /></a>
 <a href="../icons/ShadowsocksX.icns"><img src="./ShadowsocksX.jpg" alt="ShadowsocksX" width="64" /></a>
 <a href="../icons/Siri.icns"><img src="./Siri.jpg" alt="Siri" width="64" /></a>
 <a href="../icons/Sketch.icns"><img src="./Sketch.jpg" alt="Sketch" width="64" /></a>
@@ -218,5 +220,7 @@
 <a href="../icons/wechatwebdevtools(微信开发者工具).icns"><img src="./wechatwebdevtools(微信开发者工具).jpg" alt="wechatwebdevtools(微信开发者工具)" width="64" /></a>
 <a href="../icons/wpsoffice.icns"><img src="./wpsoffice.jpg" alt="wpsoffice" width="64" /></a>
 <a href="../icons/优酷.icns"><img src="./优酷.jpg" alt="优酷" width="64" /></a>
+<a href="../icons/喜马拉雅.icns"><img src="./喜马拉雅.jpg" alt="喜马拉雅" width="64" /></a>
 <a href="../icons/天翼云盘.icns"><img src="./天翼云盘.jpg" alt="天翼云盘" width="64" /></a>
+<a href="../icons/石墨文档.icns"><img src="./石墨文档.jpg" alt="石墨文档" width="64" /></a>
 <a href="../icons/百度开发者工具.icns"><img src="./百度开发者工具.jpg" alt="百度开发者工具" width="64" /></a>
