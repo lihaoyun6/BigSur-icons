@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [223] 个图标 / Here are [223] icons now  
+当前共有 [224] 个图标 / Here are [224] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -221,6 +221,7 @@
 <a href="../icons/wechatwebdevtools(微信开发者工具).icns"><img src="./wechatwebdevtools(微信开发者工具).jpg" alt="wechatwebdevtools(微信开发者工具)" width="64" /></a>
 <a href="../icons/wpsoffice.icns"><img src="./wpsoffice.jpg" alt="wpsoffice" width="64" /></a>
 <a href="../icons/优酷.icns"><img src="./优酷.jpg" alt="优酷" width="64" /></a>
+<a href="../icons/即刻.icns"><img src="./即刻.jpg" alt="即刻" width="64" /></a>
 <a href="../icons/喜马拉雅.icns"><img src="./喜马拉雅.jpg" alt="喜马拉雅" width="64" /></a>
 <a href="../icons/天翼云盘.icns"><img src="./天翼云盘.jpg" alt="天翼云盘" width="64" /></a>
 <a href="../icons/石墨文档.icns"><img src="./石墨文档.jpg" alt="石墨文档" width="64" /></a>
