@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [228] 个图标 / Here are [228] icons now  
+当前共有 [229] 个图标 / Here are [229] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -137,6 +137,7 @@
 <a href="../icons/Navicat.icns"><img src="./Navicat.jpg" alt="Navicat" width="64" /></a>
 <a href="../icons/NetNewsWire.icns"><img src="./NetNewsWire.jpg" alt="NetNewsWire" width="64" /></a>
 <a href="../icons/NeteaseMusic.icns"><img src="./NeteaseMusic.jpg" alt="NeteaseMusic" width="64" /></a>
+<a href="../icons/Neural Mix Pro.icns"><img src="./Neural%20Mix%20Pro.jpg" alt="Neural Mix Pro" width="64" /></a>
 <a href="../icons/Noiseless CK.icns"><img src="./Noiseless%20CK.jpg" alt="Noiseless CK" width="64" /></a>
 <a href="../icons/Notion.icns"><img src="./Notion.jpg" alt="Notion" width="64" /></a>
 <a href="../icons/One Switch.icns"><img src="./One%20Switch.jpg" alt="One Switch" width="64" /></a>
