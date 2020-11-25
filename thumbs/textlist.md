@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [232] 个图标 / Here are [232] icons now  
+当前共有 [233] 个图标 / Here are [233] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -120,6 +120,7 @@
 [MailMaster(网易邮箱大师)](../icons/MailMaster(网易邮箱大师).icns)  
 [MarkEditor](../icons/MarkEditor.icns)  
 [MarkEditor_Dark](../icons/MarkEditor_Dark.icns)  
+[Mathematica](../icons/Mathematica.icns)  
 [Messenger](../icons/Messenger.icns)  
 [Microsoft Edge](../icons/Microsoft%20Edge.icns)  
 [Microsoft Excel](../icons/Microsoft%20Excel.icns)  

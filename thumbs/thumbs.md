@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [232] 个图标 / Here are [232] icons now  
+当前共有 [233] 个图标 / Here are [233] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -120,6 +120,7 @@
 <a href="../icons/MailMaster(网易邮箱大师).icns"><img src="./MailMaster(网易邮箱大师).jpg" alt="MailMaster(网易邮箱大师)" width="64" /></a>
 <a href="../icons/MarkEditor.icns"><img src="./MarkEditor.jpg" alt="MarkEditor" width="64" /></a>
 <a href="../icons/MarkEditor_Dark.png"><img src="./MarkEditor_Dark.jpg" alt="MarkEditor_Dark" width="64" /></a>
+<a href="../icons/Mathematica.icns"><img src="./Mathematica.jpg" alt="Mathematica" width="64" /></a>
 <a href="../icons/Messenger.icns"><img src="./Messenger.jpg" alt="Messenger" width="64" /></a>
 <a href="../icons/Microsoft Edge.icns"><img src="./Microsoft%20Edge.jpg" alt="Microsoft Edge" width="64" /></a>
 <a href="../icons/Microsoft Excel.icns"><img src="./Microsoft%20Excel.jpg" alt="Microsoft Excel" width="64" /></a>
