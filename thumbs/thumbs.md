@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [231] 个图标 / Here are [231] icons now  
+当前共有 [232] 个图标 / Here are [232] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -140,6 +140,7 @@
 <a href="../icons/Neural Mix Pro.icns"><img src="./Neural%20Mix%20Pro.jpg" alt="Neural Mix Pro" width="64" /></a>
 <a href="../icons/Noiseless CK.icns"><img src="./Noiseless%20CK.jpg" alt="Noiseless CK" width="64" /></a>
 <a href="../icons/Notion.icns"><img src="./Notion.jpg" alt="Notion" width="64" /></a>
+<a href="../icons/Nutstore.icns"><img src="./Nutstore.jpg" alt="Nutstore" width="64" /></a>
 <a href="../icons/One Switch.icns"><img src="./One%20Switch.jpg" alt="One Switch" width="64" /></a>
 <a href="../icons/PDF Expert.icns"><img src="./PDF%20Expert.jpg" alt="PDF Expert" width="64" /></a>
 <a href="../icons/Paragon NTFS.icns"><img src="./Paragon%20NTFS.jpg" alt="Paragon NTFS" width="64" /></a>

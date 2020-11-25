@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [231] 个图标 / Here are [231] icons now  
+当前共有 [232] 个图标 / Here are [232] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -140,6 +140,7 @@
 [Neural Mix Pro](../icons/Neural%20Mix%20Pro.icns)  
 [Noiseless CK](../icons/Noiseless%20CK.icns)  
 [Notion](../icons/Notion.icns)  
+[Nutstore](../icons/Nutstore.icns)  
 [One Switch](../icons/One%20Switch.icns)  
 [PDF Expert](../icons/PDF%20Expert.icns)  
 [Paragon NTFS](../icons/Paragon%20NTFS.icns)  
