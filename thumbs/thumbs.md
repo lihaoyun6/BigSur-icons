@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [233] 个图标 / Here are [233] icons now  
+当前共有 [242] 个图标 / Here are [242] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -56,6 +56,7 @@
 <a href="../icons/CorelDRAW 2020.icns"><img src="./CorelDRAW%202020.jpg" alt="CorelDRAW 2020" width="64" /></a>
 <a href="../icons/Corsair iCUE.icns"><img src="./Corsair%20iCUE.jpg" alt="Corsair iCUE" width="64" /></a>
 <a href="../icons/CrossOver.icns"><img src="./CrossOver.jpg" alt="CrossOver" width="64" /></a>
+<a href="../icons/CrossOver20.icns"><img src="./CrossOver20.jpg" alt="CrossOver20" width="64" /></a>
 <a href="../icons/DaVinci.icns"><img src="./DaVinci.jpg" alt="DaVinci" width="64" /></a>
 <a href="../icons/DaisyDisk.icns"><img src="./DaisyDisk.jpg" alt="DaisyDisk" width="64" /></a>
 <a href="../icons/Dark Mode for Safari.icns"><img src="./Dark%20Mode%20for%20Safari.jpg" alt="Dark Mode for Safari" width="64" /></a>
@@ -94,6 +95,7 @@
 <a href="../icons/Hopper Disassembler.icns"><img src="./Hopper%20Disassembler.jpg" alt="Hopper Disassembler" width="64" /></a>
 <a href="../icons/IINA.icns"><img src="./IINA.jpg" alt="IINA" width="64" /></a>
 <a href="../icons/Icon Slate.icns"><img src="./Icon%20Slate.jpg" alt="Icon Slate" width="64" /></a>
+<a href="../icons/Install Disk Creator.icns"><img src="./Install%20Disk%20Creator.jpg" alt="Install Disk Creator" width="64" /></a>
 <a href="../icons/Intel Power Gadget.icns"><img src="./Intel%20Power%20Gadget.jpg" alt="Intel Power Gadget" width="64" /></a>
 <a href="../icons/JSON Editor.icns"><img src="./JSON%20Editor.jpg" alt="JSON Editor" width="64" /></a>
 <a href="../icons/JetBrains AppCode.icns"><img src="./JetBrains%20AppCode.jpg" alt="JetBrains AppCode" width="64" /></a>
@@ -142,13 +144,17 @@
 <a href="../icons/Noiseless CK.icns"><img src="./Noiseless%20CK.jpg" alt="Noiseless CK" width="64" /></a>
 <a href="../icons/Notion.icns"><img src="./Notion.jpg" alt="Notion" width="64" /></a>
 <a href="../icons/Nutstore.icns"><img src="./Nutstore.jpg" alt="Nutstore" width="64" /></a>
+<a href="../icons/OmniDiskSweeper.icns"><img src="./OmniDiskSweeper.jpg" alt="OmniDiskSweeper" width="64" /></a>
 <a href="../icons/One Switch.icns"><img src="./One%20Switch.jpg" alt="One Switch" width="64" /></a>
+<a href="../icons/OpenCore Configurator.icns"><img src="./OpenCore%20Configurator.jpg" alt="OpenCore Configurator" width="64" /></a>
 <a href="../icons/PDF Expert.icns"><img src="./PDF%20Expert.jpg" alt="PDF Expert" width="64" /></a>
+<a href="../icons/Pacifist.icns"><img src="./Pacifist.jpg" alt="Pacifist" width="64" /></a>
 <a href="../icons/Paragon NTFS.icns"><img src="./Paragon%20NTFS.jpg" alt="Paragon NTFS" width="64" /></a>
 <a href="../icons/Parallels Desktop.icns"><img src="./Parallels%20Desktop.jpg" alt="Parallels Desktop" width="64" /></a>
 <a href="../icons/Path Finder.icns"><img src="./Path%20Finder.jpg" alt="Path Finder" width="64" /></a>
 <a href="../icons/Permute.icns"><img src="./Permute.jpg" alt="Permute" width="64" /></a>
 <a href="../icons/Pixelmator Pro.icns"><img src="./Pixelmator%20Pro.jpg" alt="Pixelmator Pro" width="64" /></a>
+<a href="../icons/Platypus.icns"><img src="./Platypus.jpg" alt="Platypus" width="64" /></a>
 <a href="../icons/PopClip.icns"><img src="./PopClip.jpg" alt="PopClip" width="64" /></a>
 <a href="../icons/Postman.icns"><img src="./Postman.jpg" alt="Postman" width="64" /></a>
 <a href="../icons/Potato.icns"><img src="./Potato.jpg" alt="Potato" width="64" /></a>
@@ -162,6 +168,7 @@
 <a href="../icons/QQMusic.icns"><img src="./QQMusic.jpg" alt="QQMusic" width="64" /></a>
 <a href="../icons/QQ小程序开发者工具.icns"><img src="./QQ小程序开发者工具.jpg" alt="QQ小程序开发者工具" width="64" /></a>
 <a href="../icons/QuickTime Player.icns"><img src="./QuickTime%20Player.jpg" alt="QuickTime Player" width="64" /></a>
+<a href="../icons/RDM.icns"><img src="./RDM.jpg" alt="RDM" width="64" /></a>
 <a href="../icons/Rectangle.icns"><img src="./Rectangle.jpg" alt="Rectangle" width="64" /></a>
 <a href="../icons/Redis Desktop Manager.icns"><img src="./Redis%20Desktop%20Manager.jpg" alt="Redis Desktop Manager" width="64" /></a>
 <a href="../icons/Rhino 6.icns"><img src="./Rhino%206.jpg" alt="Rhino 6" width="64" /></a>
@@ -183,6 +190,7 @@
 <a href="../icons/Telegram.icns"><img src="./Telegram.jpg" alt="Telegram" width="64" /></a>
 <a href="../icons/Tencent Meeting.icns"><img src="./Tencent%20Meeting.jpg" alt="Tencent Meeting" width="64" /></a>
 <a href="../icons/Termius.icns"><img src="./Termius.jpg" alt="Termius" width="64" /></a>
+<a href="../icons/ThemeEngine.icns"><img src="./ThemeEngine.jpg" alt="ThemeEngine" width="64" /></a>
 <a href="../icons/Themviewer.icns"><img src="./Themviewer.jpg" alt="Themviewer" width="64" /></a>
 <a href="../icons/Things3.icns"><img src="./Things3.jpg" alt="Things3" width="64" /></a>
 <a href="../icons/Thunder.icns"><img src="./Thunder.jpg" alt="Thunder" width="64" /></a>
@@ -233,5 +241,6 @@
 <a href="../icons/语雀.icns"><img src="./语雀.jpg" alt="语雀" width="64" /></a>
 <a href="../icons/喜马拉雅.icns"><img src="./喜马拉雅.jpg" alt="喜马拉雅" width="64" /></a>
 <a href="../icons/天翼云盘.icns"><img src="./天翼云盘.jpg" alt="天翼云盘" width="64" /></a>
+<a href="../icons/暴风影音.icns"><img src="./暴风影音.jpg" alt="暴风影音" width="64" /></a>
 <a href="../icons/石墨文档.icns"><img src="./石墨文档.jpg" alt="石墨文档" width="64" /></a>
 <a href="../icons/百度开发者工具.icns"><img src="./百度开发者工具.jpg" alt="百度开发者工具" width="64" /></a>
