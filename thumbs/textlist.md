@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [233] 个图标 / Here are [233] icons now  
+当前共有 [242] 个图标 / Here are [242] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -56,6 +56,7 @@
 [CorelDRAW 2020](../icons/CorelDRAW%202020.icns)  
 [Corsair iCUE](../icons/Corsair%20iCUE.icns)  
 [CrossOver](../icons/CrossOver.icns)  
+[CrossOver20](../icons/CrossOver20.icns)  
 [DaVinci](../icons/DaVinci.icns)  
 [DaisyDisk](../icons/DaisyDisk.icns)  
 [Dark Mode for Safari](../icons/Dark%20Mode%20for%20Safari.icns)  
@@ -94,6 +95,7 @@
 [Hopper Disassembler](../icons/Hopper%20Disassembler.icns)  
 [IINA](../icons/IINA.icns)  
 [Icon Slate](../icons/Icon%20Slate.icns)  
+[Install Disk Creator](../icons/Install%20Disk%20Creator.icns)  
 [Intel Power Gadget](../icons/Intel%20Power%20Gadget.icns)  
 [JSON Editor](../icons/JSON%20Editor.icns)  
 [JetBrains AppCode](../icons/JetBrains%20AppCode.icns)  
@@ -142,13 +144,17 @@
 [Noiseless CK](../icons/Noiseless%20CK.icns)  
 [Notion](../icons/Notion.icns)  
 [Nutstore](../icons/Nutstore.icns)  
+[OmniDiskSweeper](../icons/OmniDiskSweeper.icns)  
 [One Switch](../icons/One%20Switch.icns)  
+[OpenCore Configurator](../icons/OpenCore%20Configurator.icns)  
 [PDF Expert](../icons/PDF%20Expert.icns)  
+[Pacifist](../icons/Pacifist.icns)  
 [Paragon NTFS](../icons/Paragon%20NTFS.icns)  
 [Parallels Desktop](../icons/Parallels%20Desktop.icns)  
 [Path Finder](../icons/Path%20Finder.icns)  
 [Permute](../icons/Permute.icns)  
 [Pixelmator Pro](../icons/Pixelmator%20Pro.icns)  
+[Platypus](../icons/Platypus.icns)  
 [PopClip](../icons/PopClip.icns)  
 [Postman](../icons/Postman.icns)  
 [Potato](../icons/Potato.icns)  
@@ -162,6 +168,7 @@
 [QQMusic](../icons/QQMusic.icns)  
 [QQ小程序开发者工具](../icons/QQ小程序开发者工具.icns)  
 [QuickTime Player](../icons/QuickTime%20Player.icns)  
+[RDM](../icons/RDM.icns)  
 [Rectangle](../icons/Rectangle.icns)  
 [Redis Desktop Manager](../icons/Redis%20Desktop%20Manager.icns)  
 [Rhino 6](../icons/Rhino%206.icns)  
@@ -183,6 +190,7 @@
 [Telegram](../icons/Telegram.icns)  
 [Tencent Meeting](../icons/Tencent%20Meeting.icns)  
 [Termius](../icons/Termius.icns)  
+[ThemeEngine](../icons/ThemeEngine.icns)  
 [Themviewer](../icons/Themviewer.icns)  
 [Things3](../icons/Things3.icns)  
 [Thunder](../icons/Thunder.icns)  
@@ -233,5 +241,6 @@
 [语雀](../icons/语雀.icns)  
 [喜马拉雅](../icons/喜马拉雅.icns)  
 [天翼云盘](../icons/天翼云盘.icns)  
+[暴风影音](../icons/暴风影音.icns)  
 [石墨文档](../icons/石墨文档.icns)  
 [百度开发者工具](../icons/百度开发者工具.icns)  
