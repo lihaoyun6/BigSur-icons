@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [242] 个图标 / Here are [242] icons now  
+当前共有 [246] 个图标 / Here are [246] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -26,6 +26,7 @@
 <a href="../icons/Android Studio(New).icns"><img src="./Android%20Studio(New).jpg" alt="Android Studio(New)" width="64" /></a>
 <a href="../icons/Android Studio.icns"><img src="./Android%20Studio.jpg" alt="Android Studio" width="64" /></a>
 <a href="../icons/ApiPost.icns"><img src="./ApiPost.jpg" alt="ApiPost" width="64" /></a>
+<a href="../icons/App2Dmg.icns"><img src="./App2Dmg.jpg" alt="App2Dmg" width="64" /></a>
 <a href="../icons/Atom.icns"><img src="./Atom.jpg" alt="Atom" width="64" /></a>
 <a href="../icons/AutoCAD.icns"><img src="./AutoCAD.jpg" alt="AutoCAD" width="64" /></a>
 <a href="../icons/BaiduNetdisk.icns"><img src="./BaiduNetdisk.jpg" alt="BaiduNetdisk" width="64" /></a>
@@ -57,11 +58,13 @@
 <a href="../icons/Corsair iCUE.icns"><img src="./Corsair%20iCUE.jpg" alt="Corsair iCUE" width="64" /></a>
 <a href="../icons/CrossOver.icns"><img src="./CrossOver.jpg" alt="CrossOver" width="64" /></a>
 <a href="../icons/CrossOver20.icns"><img src="./CrossOver20.jpg" alt="CrossOver20" width="64" /></a>
+<a href="../icons/DMG Canvas.icns"><img src="./DMG%20Canvas.jpg" alt="DMG Canvas" width="64" /></a>
 <a href="../icons/DaVinci.icns"><img src="./DaVinci.jpg" alt="DaVinci" width="64" /></a>
 <a href="../icons/DaisyDisk.icns"><img src="./DaisyDisk.jpg" alt="DaisyDisk" width="64" /></a>
 <a href="../icons/Dark Mode for Safari.icns"><img src="./Dark%20Mode%20for%20Safari.jpg" alt="Dark Mode for Safari" width="64" /></a>
 <a href="../icons/Dash.icns"><img src="./Dash.jpg" alt="Dash" width="64" /></a>
 <a href="../icons/Debookee.icns"><img src="./Debookee.jpg" alt="Debookee" width="64" /></a>
+<a href="../icons/DfontSplitter.icns"><img src="./DfontSplitter.jpg" alt="DfontSplitter" width="64" /></a>
 <a href="../icons/DingTalk.icns"><img src="./DingTalk.jpg" alt="DingTalk" width="64" /></a>
 <a href="../icons/Discord Dev.icns"><img src="./Discord%20Dev.jpg" alt="Discord Dev" width="64" /></a>
 <a href="../icons/Discord.icns"><img src="./Discord.jpg" alt="Discord" width="64" /></a>
@@ -224,6 +227,7 @@
 <a href="../icons/Xnip.icns"><img src="./Xnip.jpg" alt="Xnip" width="64" /></a>
 <a href="../icons/Yoink.icns"><img src="./Yoink.jpg" alt="Yoink" width="64" /></a>
 <a href="../icons/ZY Player.icns"><img src="./ZY%20Player.jpg" alt="ZY Player" width="64" /></a>
+<a href="../icons/balenaEtcher.icns"><img src="./balenaEtcher.jpg" alt="balenaEtcher" width="64" /></a>
 <a href="../icons/cDock.icns"><img src="./cDock.jpg" alt="cDock" width="64" /></a>
 <a href="../icons/checkra1n.icns"><img src="./checkra1n.jpg" alt="checkra1n" width="64" /></a>
 <a href="../icons/i4Tools.icns"><img src="./i4Tools.jpg" alt="i4Tools" width="64" /></a>
