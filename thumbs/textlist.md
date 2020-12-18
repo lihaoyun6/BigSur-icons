@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [242] 个图标 / Here are [242] icons now  
+当前共有 [246] 个图标 / Here are [246] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -26,6 +26,7 @@
 [Android Studio(New)](../icons/Android%20Studio(New).icns)  
 [Android Studio](../icons/Android%20Studio.icns)  
 [ApiPost](../icons/ApiPost.icns)  
+[App2Dmg](../icons/App2Dmg.icns)  
 [Atom](../icons/Atom.icns)  
 [AutoCAD](../icons/AutoCAD.icns)  
 [BaiduNetdisk](../icons/BaiduNetdisk.icns)  
@@ -57,11 +58,13 @@
 [Corsair iCUE](../icons/Corsair%20iCUE.icns)  
 [CrossOver](../icons/CrossOver.icns)  
 [CrossOver20](../icons/CrossOver20.icns)  
+[DMG Canvas](../icons/DMG%20Canvas.icns)  
 [DaVinci](../icons/DaVinci.icns)  
 [DaisyDisk](../icons/DaisyDisk.icns)  
 [Dark Mode for Safari](../icons/Dark%20Mode%20for%20Safari.icns)  
 [Dash](../icons/Dash.icns)  
 [Debookee](../icons/Debookee.icns)  
+[DfontSplitter](../icons/DfontSplitter.icns)  
 [DingTalk](../icons/DingTalk.icns)  
 [Discord Dev](../icons/Discord%20Dev.icns)  
 [Discord](../icons/Discord.icns)  
@@ -224,6 +227,7 @@
 [Xnip](../icons/Xnip.icns)  
 [Yoink](../icons/Yoink.icns)  
 [ZY Player](../icons/ZY%20Player.icns)  
+[balenaEtcher](../icons/balenaEtcher.icns)  
 [cDock](../icons/cDock.icns)  
 [checkra1n](../icons/checkra1n.icns)  
 [i4Tools](../icons/i4Tools.icns)  
