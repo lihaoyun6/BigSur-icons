@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [246] 个图标 / Here are [246] icons now  
+当前共有 [255] 个图标 / Here are [255] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -17,6 +17,7 @@
 <a href="../icons/Adobe Media Encoder.icns"><img src="./Adobe%20Media%20Encoder.jpg" alt="Adobe Media Encoder" width="64" /></a>
 <a href="../icons/Adobe Photoshop.icns"><img src="./Adobe%20Photoshop.jpg" alt="Adobe Photoshop" width="64" /></a>
 <a href="../icons/Adobe Premiere.icns"><img src="./Adobe%20Premiere.jpg" alt="Adobe Premiere" width="64" /></a>
+<a href="../icons/Adobe Zii.icns"><img src="./Adobe%20Zii.jpg" alt="Adobe Zii" width="64" /></a>
 <a href="../icons/Aibotech NTFS.icns"><img src="./Aibotech%20NTFS.jpg" alt="Aibotech NTFS" width="64" /></a>
 <a href="../icons/AirBuddy.icns"><img src="./AirBuddy.jpg" alt="AirBuddy" width="64" /></a>
 <a href="../icons/AirServer.icns"><img src="./AirServer.jpg" alt="AirServer" width="64" /></a>
@@ -79,11 +80,14 @@
 <a href="../icons/Evernote.icns"><img src="./Evernote.jpg" alt="Evernote" width="64" /></a>
 <a href="../icons/FileZilla.icns"><img src="./FileZilla.jpg" alt="FileZilla" width="64" /></a>
 <a href="../icons/FinalShell.icns"><img src="./FinalShell.jpg" alt="FinalShell" width="64" /></a>
+<a href="../icons/FineReader.icns"><img src="./FineReader.jpg" alt="FineReader" width="64" /></a>
 <a href="../icons/FireStream.icns"><img src="./FireStream.jpg" alt="FireStream" width="64" /></a>
 <a href="../icons/Firefox.icns"><img src="./Firefox.jpg" alt="Firefox" width="64" /></a>
 <a href="../icons/Focus.icns"><img src="./Focus.jpg" alt="Focus" width="64" /></a>
 <a href="../icons/FontForge.icns"><img src="./FontForge.jpg" alt="FontForge" width="64" /></a>
 <a href="../icons/Fork.icns"><img src="./Fork.jpg" alt="Fork" width="64" /></a>
+<a href="../icons/Geekbench.icns"><img src="./Geekbench.jpg" alt="Geekbench" width="64" /></a>
+<a href="../icons/Gemini.icns"><img src="./Gemini.jpg" alt="Gemini" width="64" /></a>
 <a href="../icons/Genymotion Shell.icns"><img src="./Genymotion%20Shell.jpg" alt="Genymotion Shell" width="64" /></a>
 <a href="../icons/Genymotion.icns"><img src="./Genymotion.jpg" alt="Genymotion" width="64" /></a>
 <a href="../icons/Github.icns"><img src="./Github.jpg" alt="Github" width="64" /></a>
@@ -111,6 +115,7 @@
 <a href="../icons/JetBrains Rider.icns"><img src="./JetBrains%20Rider.jpg" alt="JetBrains Rider" width="64" /></a>
 <a href="../icons/JetBrains RubyMine.icns"><img src="./JetBrains%20RubyMine.jpg" alt="JetBrains RubyMine" width="64" /></a>
 <a href="../icons/JetBrains WebStorm.icns"><img src="./JetBrains%20WebStorm.jpg" alt="JetBrains WebStorm" width="64" /></a>
+<a href="../icons/Karabiner-EventViewer.icns"><img src="./Karabiner-EventViewer.jpg" alt="Karabiner-EventViewer" width="64" /></a>
 <a href="../icons/Keka.icns"><img src="./Keka.jpg" alt="Keka" width="64" /></a>
 <a href="../icons/KeyManager.icns"><img src="./KeyManager.jpg" alt="KeyManager" width="64" /></a>
 <a href="../icons/KeyShot.icns"><img src="./KeyShot.jpg" alt="KeyShot" width="64" /></a>
@@ -135,6 +140,7 @@
 <a href="../icons/Microsoft PowerPoint.icns"><img src="./Microsoft%20PowerPoint.jpg" alt="Microsoft PowerPoint" width="64" /></a>
 <a href="../icons/Microsoft Remote Desktop.icns"><img src="./Microsoft%20Remote%20Desktop.jpg" alt="Microsoft Remote Desktop" width="64" /></a>
 <a href="../icons/Microsoft Word.icns"><img src="./Microsoft%20Word.jpg" alt="Microsoft Word" width="64" /></a>
+<a href="../icons/Minecraft.icns"><img src="./Minecraft.jpg" alt="Minecraft" width="64" /></a>
 <a href="../icons/Money Pro.icns"><img src="./Money%20Pro.jpg" alt="Money Pro" width="64" /></a>
 <a href="../icons/Motrix.icns"><img src="./Motrix.jpg" alt="Motrix" width="64" /></a>
 <a href="../icons/Mounty.icns"><img src="./Mounty.jpg" alt="Mounty" width="64" /></a>
@@ -144,6 +150,7 @@
 <a href="../icons/NetNewsWire.icns"><img src="./NetNewsWire.jpg" alt="NetNewsWire" width="64" /></a>
 <a href="../icons/NeteaseMusic.icns"><img src="./NeteaseMusic.jpg" alt="NeteaseMusic" width="64" /></a>
 <a href="../icons/Neural Mix Pro.icns"><img src="./Neural%20Mix%20Pro.jpg" alt="Neural Mix Pro" width="64" /></a>
+<a href="../icons/NibViwer.icns"><img src="./NibViwer.jpg" alt="NibViwer" width="64" /></a>
 <a href="../icons/Noiseless CK.icns"><img src="./Noiseless%20CK.jpg" alt="Noiseless CK" width="64" /></a>
 <a href="../icons/Notion.icns"><img src="./Notion.jpg" alt="Notion" width="64" /></a>
 <a href="../icons/Nutstore.icns"><img src="./Nutstore.jpg" alt="Nutstore" width="64" /></a>
@@ -151,6 +158,7 @@
 <a href="../icons/One Switch.icns"><img src="./One%20Switch.jpg" alt="One Switch" width="64" /></a>
 <a href="../icons/OpenCore Configurator.icns"><img src="./OpenCore%20Configurator.jpg" alt="OpenCore Configurator" width="64" /></a>
 <a href="../icons/PDF Expert.icns"><img src="./PDF%20Expert.jpg" alt="PDF Expert" width="64" /></a>
+<a href="../icons/PDF Squeezer.icns"><img src="./PDF%20Squeezer.jpg" alt="PDF Squeezer" width="64" /></a>
 <a href="../icons/Pacifist.icns"><img src="./Pacifist.jpg" alt="Pacifist" width="64" /></a>
 <a href="../icons/Paragon NTFS.icns"><img src="./Paragon%20NTFS.jpg" alt="Paragon NTFS" width="64" /></a>
 <a href="../icons/Parallels Desktop.icns"><img src="./Parallels%20Desktop.jpg" alt="Parallels Desktop" width="64" /></a>
@@ -158,6 +166,7 @@
 <a href="../icons/Permute.icns"><img src="./Permute.jpg" alt="Permute" width="64" /></a>
 <a href="../icons/Pixelmator Pro.icns"><img src="./Pixelmator%20Pro.jpg" alt="Pixelmator Pro" width="64" /></a>
 <a href="../icons/Platypus.icns"><img src="./Platypus.jpg" alt="Platypus" width="64" /></a>
+<a href="../icons/PlistEdit Pro.icns"><img src="./PlistEdit%20Pro.jpg" alt="PlistEdit Pro" width="64" /></a>
 <a href="../icons/PopClip.icns"><img src="./PopClip.jpg" alt="PopClip" width="64" /></a>
 <a href="../icons/Postman.icns"><img src="./Postman.jpg" alt="Postman" width="64" /></a>
 <a href="../icons/Potato.icns"><img src="./Potato.jpg" alt="Potato" width="64" /></a>
