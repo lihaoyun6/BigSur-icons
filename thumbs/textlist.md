@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [255] 个图标 / Here are [255] icons now  
+当前共有 [262] 个图标 / Here are [262] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -29,6 +29,7 @@
 [ApiPost](../icons/ApiPost.icns)  
 [App2Dmg](../icons/App2Dmg.icns)  
 [Atom](../icons/Atom.icns)  
+[AutoCAD Plot Style Editor](../icons/AutoCAD%20Plot%20Style%20Editor.icns)  
 [AutoCAD](../icons/AutoCAD.icns)  
 [BaiduNetdisk](../icons/BaiduNetdisk.icns)  
 [BattleNet](../icons/BattleNet.icns)  
@@ -44,6 +45,7 @@
 [CCtalk](../icons/CCtalk.icns)  
 [CPU-S](../icons/CPU-S.icns)  
 [Charles](../icons/Charles.icns)  
+[Chrome Feedback](../icons/Chrome%20Feedback.icns)  
 [Chrome(1)](../icons/Chrome(1).icns)  
 [Chrome(2)](../icons/Chrome(2).icns)  
 [Cinema 4D](../icons/Cinema%204D.icns)  
@@ -120,6 +122,7 @@
 [KeyManager](../icons/KeyManager.icns)  
 [KeyShot](../icons/KeyShot.icns)  
 [Keyboard Maestro](../icons/Keyboard%20Maestro.icns)  
+[LTU](../icons/LTU.icns)  
 [Lemon](../icons/Lemon.icns)  
 [Lungo](../icons/Lungo.icns)  
 [MATLAB](../icons/MATLAB.icns)  
@@ -142,6 +145,7 @@
 [Microsoft Word](../icons/Microsoft%20Word.icns)  
 [Minecraft](../icons/Minecraft.icns)  
 [Money Pro](../icons/Money%20Pro.icns)  
+[MonitorFace](../icons/MonitorFace.icns)  
 [Motrix](../icons/Motrix.icns)  
 [Mounty](../icons/Mounty.icns)  
 [Movist](../icons/Movist.icns)  
@@ -183,6 +187,7 @@
 [RDM](../icons/RDM.icns)  
 [Rectangle](../icons/Rectangle.icns)  
 [Redis Desktop Manager](../icons/Redis%20Desktop%20Manager.icns)  
+[Remove AutoCAD 2018](../icons/Remove%20AutoCAD%202018.icns)  
 [Rhino 6](../icons/Rhino%206.icns)  
 [Rhino](../icons/Rhino.icns)  
 [Rosetta Stone](../icons/Rosetta%20Stone.icns)  
@@ -191,6 +196,8 @@
 [Siri](../icons/Siri.icns)  
 [Sketch](../icons/Sketch.icns)  
 [SketchUP](../icons/SketchUP.icns)  
+[SketchUp LayOut](../icons/SketchUp%20LayOut.icns)  
+[SketchUp Style Builder](../icons/SketchUp%20Style%20Builder.icns)  
 [Spark](../icons/Spark.icns)  
 [Speedtest](../icons/Speedtest.icns)  
 [Steam](../icons/Steam.icns)  
