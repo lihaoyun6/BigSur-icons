@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [266] 个图标 / Here are [266] icons now  
+当前共有 [267] 个图标 / Here are [267] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -42,6 +42,7 @@
 [Blocs](../icons/Blocs.icns)  
 [BlueStacks](../icons/BlueStacks.icns)  
 [Boom3D](../icons/Boom3D.icns)  
+[CAD快速看图](../icons/CAD快速看图.icns)  
 [CAJViewer](../icons/CAJViewer.icns)  
 [CCtalk](../icons/CCtalk.icns)  
 [CPU-S](../icons/CPU-S.icns)  

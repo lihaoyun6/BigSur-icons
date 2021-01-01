@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [266] 个图标 / Here are [266] icons now  
+当前共有 [267] 个图标 / Here are [267] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -42,6 +42,7 @@
 <a href="../icons/Blocs.icns"><img src="./Blocs.jpg" alt="Blocs" width="64" /></a>
 <a href="../icons/BlueStacks.icns"><img src="./BlueStacks.jpg" alt="BlueStacks" width="64" /></a>
 <a href="../icons/Boom3D.icns"><img src="./Boom3D.jpg" alt="Boom3D" width="64" /></a>
+<a href="../icons/CAD快速看图.icns"><img src="./CAD快速看图.jpg" alt="CAD快速看图" width="64" /></a>
 <a href="../icons/CAJViewer.icns"><img src="./CAJViewer.jpg" alt="CAJViewer" width="64" /></a>
 <a href="../icons/CCtalk.icns"><img src="./CCtalk.jpg" alt="CCtalk" width="64" /></a>
 <a href="../icons/CPU-S.icns"><img src="./CPU-S.jpg" alt="CPU-S" width="64" /></a>
