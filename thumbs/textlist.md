@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [265] 个图标 / Here are [265] icons now  
+当前共有 [266] 个图标 / Here are [266] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -262,6 +262,7 @@
 [优酷](../icons/优酷.icns)  
 [即刻](../icons/即刻.icns)  
 [语雀](../icons/语雀.icns)  
+[人人影视](../icons/人人影视.icns)  
 [喜马拉雅](../icons/喜马拉雅.icns)  
 [天翼云盘](../icons/天翼云盘.icns)  
 [暴风影音](../icons/暴风影音.icns)  
