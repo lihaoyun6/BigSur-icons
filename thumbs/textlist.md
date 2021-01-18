@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [267] 个图标 / Here are [267] icons now  
+当前共有 [269] 个图标 / Here are [269] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -27,6 +27,7 @@
 [Android Studio(New)](../icons/Android%20Studio(New).icns)  
 [Android Studio](../icons/Android%20Studio.icns)  
 [ApiPost](../icons/ApiPost.icns)  
+[App Cleaner Pro](../icons/App%20Cleaner%20Pro.icns)  
 [App2Dmg](../icons/App2Dmg.icns)  
 [Atom](../icons/Atom.icns)  
 [AutoCAD LTU](../icons/AutoCAD%20LTU.icns)  
@@ -201,6 +202,7 @@
 [SketchUP](../icons/SketchUP.icns)  
 [SketchUp LayOut](../icons/SketchUp%20LayOut.icns)  
 [SketchUp Style Builder](../icons/SketchUp%20Style%20Builder.icns)  
+[Smooze](../icons/Smooze.icns)  
 [Spark](../icons/Spark.icns)  
 [Speedtest](../icons/Speedtest.icns)  
 [Steam](../icons/Steam.icns)  

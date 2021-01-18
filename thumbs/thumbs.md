@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [267] 个图标 / Here are [267] icons now  
+当前共有 [269] 个图标 / Here are [269] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -27,6 +27,7 @@
 <a href="../icons/Android Studio(New).icns"><img src="./Android%20Studio(New).jpg" alt="Android Studio(New)" width="64" /></a>
 <a href="../icons/Android Studio.icns"><img src="./Android%20Studio.jpg" alt="Android Studio" width="64" /></a>
 <a href="../icons/ApiPost.icns"><img src="./ApiPost.jpg" alt="ApiPost" width="64" /></a>
+<a href="../icons/App Cleaner Pro.icns"><img src="./App%20Cleaner%20Pro.jpg" alt="App Cleaner Pro" width="64" /></a>
 <a href="../icons/App2Dmg.icns"><img src="./App2Dmg.jpg" alt="App2Dmg" width="64" /></a>
 <a href="../icons/Atom.icns"><img src="./Atom.jpg" alt="Atom" width="64" /></a>
 <a href="../icons/AutoCAD LTU.icns"><img src="./AutoCAD%20LTU.jpg" alt="AutoCAD LTU" width="64" /></a>
@@ -201,6 +202,7 @@
 <a href="../icons/SketchUP.icns"><img src="./SketchUP.jpg" alt="SketchUP" width="64" /></a>
 <a href="../icons/SketchUp LayOut.icns"><img src="./SketchUp%20LayOut.jpg" alt="SketchUp LayOut" width="64" /></a>
 <a href="../icons/SketchUp Style Builder.icns"><img src="./SketchUp%20Style%20Builder.jpg" alt="SketchUp Style Builder" width="64" /></a>
+<a href="../icons/Smooze.icns"><img src="./Smooze.jpg" alt="Smooze" width="64" /></a>
 <a href="../icons/Spark.icns"><img src="./Spark.jpg" alt="Spark" width="64" /></a>
 <a href="../icons/Speedtest.icns"><img src="./Speedtest.jpg" alt="Speedtest" width="64" /></a>
 <a href="../icons/Steam.icns"><img src="./Steam.jpg" alt="Steam" width="64" /></a>
