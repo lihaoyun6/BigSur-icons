@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [270] 个图标 / Here are [270] icons now  
+当前共有 [271] 个图标 / Here are [271] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -184,6 +184,7 @@
 [QQ Dev](../icons/QQ%20Dev.icns)  
 [QQ](../icons/QQ.icns)  
 [QQLive](../icons/QQLive.icns)  
+[QQMusic(2)](../icons/QQMusic(2).icns)  
 [QQMusic](../icons/QQMusic.icns)  
 [QQ小程序开发者工具](../icons/QQ小程序开发者工具.icns)  
 [QuickTime Player](../icons/QuickTime%20Player.icns)  

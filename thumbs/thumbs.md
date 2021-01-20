@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [270] 个图标 / Here are [270] icons now  
+当前共有 [271] 个图标 / Here are [271] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -184,6 +184,7 @@
 <a href="../icons/QQ Dev.icns"><img src="./QQ%20Dev.jpg" alt="QQ Dev" width="64" /></a>
 <a href="../icons/QQ.icns"><img src="./QQ.jpg" alt="QQ" width="64" /></a>
 <a href="../icons/QQLive.icns"><img src="./QQLive.jpg" alt="QQLive" width="64" /></a>
+<a href="../icons/QQMusic(2).icns"><img src="./QQMusic(2).jpg" alt="QQMusic(2)" width="64" /></a>
 <a href="../icons/QQMusic.icns"><img src="./QQMusic.jpg" alt="QQMusic" width="64" /></a>
 <a href="../icons/QQ小程序开发者工具.icns"><img src="./QQ小程序开发者工具.jpg" alt="QQ小程序开发者工具" width="64" /></a>
 <a href="../icons/QuickTime Player.icns"><img src="./QuickTime%20Player.jpg" alt="QuickTime Player" width="64" /></a>
