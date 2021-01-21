@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [272] 个图标 / Here are [272] icons now  
+当前共有 [273] 个图标 / Here are [273] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -87,6 +87,7 @@
 [FinalShell](../icons/FinalShell.icns)  
 [FineReader](../icons/FineReader.icns)  
 [FireStream](../icons/FireStream.icns)  
+[Firefox Dev](../icons/Firefox%20Dev.icns)  
 [Firefox](../icons/Firefox.icns)  
 [FixEDID](../icons/FixEDID.icns)  
 [Focus](../icons/Focus.icns)  

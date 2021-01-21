@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [272] 个图标 / Here are [272] icons now  
+当前共有 [273] 个图标 / Here are [273] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -87,6 +87,7 @@
 <a href="../icons/FinalShell.icns"><img src="./FinalShell.jpg" alt="FinalShell" width="64" /></a>
 <a href="../icons/FineReader.icns"><img src="./FineReader.jpg" alt="FineReader" width="64" /></a>
 <a href="../icons/FireStream.icns"><img src="./FireStream.jpg" alt="FireStream" width="64" /></a>
+<a href="../icons/Firefox Dev.icns"><img src="./Firefox%20Dev.jpg" alt="Firefox Dev" width="64" /></a>
 <a href="../icons/Firefox.icns"><img src="./Firefox.jpg" alt="Firefox" width="64" /></a>
 <a href="../icons/FixEDID.icns"><img src="./FixEDID.jpg" alt="FixEDID" width="64" /></a>
 <a href="../icons/Focus.icns"><img src="./Focus.jpg" alt="Focus" width="64" /></a>
