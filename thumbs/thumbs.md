@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [279] 个图标 / Here are [279] icons now  
+当前共有 [280] 个图标 / Here are [280] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -277,6 +277,7 @@
 <a href="../icons/人人影视.icns"><img src="./人人影视.jpg" alt="人人影视" width="64" /></a>
 <a href="../icons/喜马拉雅.icns"><img src="./喜马拉雅.jpg" alt="喜马拉雅" width="64" /></a>
 <a href="../icons/天翼云盘.icns"><img src="./天翼云盘.jpg" alt="天翼云盘" width="64" /></a>
+<a href="../icons/央视影音.icns"><img src="./央视影音.jpg" alt="央视影音" width="64" /></a>
 <a href="../icons/暴风影音.icns"><img src="./暴风影音.jpg" alt="暴风影音" width="64" /></a>
 <a href="../icons/石墨文档.icns"><img src="./石墨文档.jpg" alt="石墨文档" width="64" /></a>
 <a href="../icons/虎牙直播.icns"><img src="./虎牙直播.jpg" alt="虎牙直播" width="64" /></a>
