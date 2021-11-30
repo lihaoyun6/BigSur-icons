@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至ICNS原图  /  Click on the link to access the ICNS file  
-当前共有 [280] 个图标 / Here are [280] icons now  
+当前共有 [278] 个图标 / Here are [278] icons now  
 ****  
 
 [1Password](../icons/1Password.icns)  
@@ -125,6 +125,7 @@
 [JetBrains PyCharm](../icons/JetBrains%20PyCharm.icns)  
 [JetBrains Rider](../icons/JetBrains%20Rider.icns)  
 [JetBrains RubyMine](../icons/JetBrains%20RubyMine.icns)  
+[JetBrains Toolbox](../icons/JetBrains%20Toolbox.icns)  
 [JetBrains WebStorm](../icons/JetBrains%20WebStorm.icns)  
 [Karabiner-EventViewer](../icons/Karabiner-EventViewer.icns)  
 [Keka](../icons/Keka.icns)  
@@ -207,9 +208,6 @@
 [ShadowsocksX](../icons/ShadowsocksX.icns)  
 [Siri](../icons/Siri.icns)  
 [Sketch](../icons/Sketch.icns)  
-[SketchUp LayOut](../icons/SketchUp%20LayOut.icns)  
-[SketchUp Style Builder](../icons/SketchUp%20Style%20Builder.icns)  
-[SketchUp](../icons/SketchUp.icns)  
 [Smooze](../icons/Smooze.icns)  
 [Spark](../icons/Spark.icns)  
 [Speedtest](../icons/Speedtest.icns)  

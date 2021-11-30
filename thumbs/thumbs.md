@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至ICNS原图  /  Click on the thumbnail to access the ICNS file  
-当前共有 [280] 个图标 / Here are [280] icons now  
+当前共有 [278] 个图标 / Here are [278] icons now  
 ****  
 
 <a href="../icons/1Password.icns"><img src="./1Password.jpg" alt="1Password" width="64" /></a>
@@ -125,6 +125,7 @@
 <a href="../icons/JetBrains PyCharm.icns"><img src="./JetBrains%20PyCharm.jpg" alt="JetBrains PyCharm" width="64" /></a>
 <a href="../icons/JetBrains Rider.icns"><img src="./JetBrains%20Rider.jpg" alt="JetBrains Rider" width="64" /></a>
 <a href="../icons/JetBrains RubyMine.icns"><img src="./JetBrains%20RubyMine.jpg" alt="JetBrains RubyMine" width="64" /></a>
+<a href="../icons/JetBrains Toolbox.icns"><img src="./JetBrains%20Toolbox.jpg" alt="JetBrains Toolbox" width="64" /></a>
 <a href="../icons/JetBrains WebStorm.icns"><img src="./JetBrains%20WebStorm.jpg" alt="JetBrains WebStorm" width="64" /></a>
 <a href="../icons/Karabiner-EventViewer.icns"><img src="./Karabiner-EventViewer.jpg" alt="Karabiner-EventViewer" width="64" /></a>
 <a href="../icons/Keka.icns"><img src="./Keka.jpg" alt="Keka" width="64" /></a>
@@ -207,9 +208,6 @@
 <a href="../icons/ShadowsocksX.icns"><img src="./ShadowsocksX.jpg" alt="ShadowsocksX" width="64" /></a>
 <a href="../icons/Siri.icns"><img src="./Siri.jpg" alt="Siri" width="64" /></a>
 <a href="../icons/Sketch.icns"><img src="./Sketch.jpg" alt="Sketch" width="64" /></a>
-<a href="../icons/SketchUp LayOut.icns"><img src="./SketchUp%20LayOut.jpg" alt="SketchUp LayOut" width="64" /></a>
-<a href="../icons/SketchUp Style Builder.icns"><img src="./SketchUp%20Style%20Builder.jpg" alt="SketchUp Style Builder" width="64" /></a>
-<a href="../icons/SketchUp.icns"><img src="./SketchUp.jpg" alt="SketchUp" width="64" /></a>
 <a href="../icons/Smooze.icns"><img src="./Smooze.jpg" alt="Smooze" width="64" /></a>
 <a href="../icons/Spark.icns"><img src="./Spark.jpg" alt="Spark" width="64" /></a>
 <a href="../icons/Speedtest.icns"><img src="./Speedtest.jpg" alt="Speedtest" width="64" /></a>
